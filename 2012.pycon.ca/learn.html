@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>Featured Speakers | PyCon Canada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+    	content='Your connection to the Python Canada community. We are the momentum 
+    	behind the Canadian PyCon conference, and the source for local Python programmers, events, and jobs.' />
+    <meta name="author" content="" />
+
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap.css" rel="stylesheet" />
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="static/pycon.css" rel="stylesheet" />
+
+    <script src="static/libs/jquery-1.7.2.min.js"></script>
+    <script src="static/libs/bootstrap-2.0.3/js/bootstrap.min.js"></script>
+    <script src="static/libs/handlebars-1.0.0.beta.6.js"></script>
+    <script src="static/js/handlebars-helpers.js"></script>
+    <script src="static/libs/jquery.tinycarousel.min.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--<script src="//widgets.twimg.com/j/2/widget.js"></script>-->
+  </head>
+
+  <body class="learn-section">
+    <header id="MainHeader">
+      <div id="o-hai-can-haz-snake"></div>
+      <nav class="navbar clearfix">
+              <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </a>
+
+              <div class="nav-collapse">
+                <ul class="nav">
+                  <li class="nav-home">
+                    <a href="index.html">
+                        <i class="icon-home icon-white nav-icon"></i>
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-about" data-toggle="dropdown" href="learn.html#">
+                        À propos
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="about.html">
+                          À propos
+                        </a>
+                      </li>
+                      <li>
+                        <a href="conduct.html">
+                          Code de conduite
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="venue.html" class="nav-venue">
+                        Lieu
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-schedule" data-toggle="dropdown" href="learn.html#">
+                        Horaire
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="schedule.html">
+                          Conférence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="sprints.html">
+                          Sprints
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="speakers.html" class="nav-speak">
+                        Présenter
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="learn.html" class="nav-learn">
+                        Apprendre
+                    </a>
+                  </li>
+
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle nav-sponsor" data-toggle="dropdown" href="learn.html#">
+                      Sponsors
+                      <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="sponsors.html">
+                        Tous les Sponsors
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/500px.html">
+                        Sponsor Or • 500px
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/freshbooks.html">
+                        Sponsor Argent • FreshBooks
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/chango.html">
+                        Sponsor Argent • Chango
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/wave.html">
+                        Sponsor Argent • Wave
+                      </a>
+                    </li>
+                    <li>
+                      <a href="directory.html">
+                        Sponsors Indépendants
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                  <li>
+                    <a href="contact.html" class="nav-contact">
+                        Contact
+                    </a>
+                  </li>
+
+                    <li class="nav-spacer nav-auth">
+                      <a href="login.html">
+                          Connexion
+                      </a>
+                    </li>
+
+                    <li class="nav-auth">
+                      <a href="new/user.html">
+                          S&#39;inscrire
+                      </a>
+                    </li>
+
+                  <li class="nav-spacer">
+                    <a href="index.html" class="locale-toggle">
+                        <i class="icon-canada nav-icon"></i>
+                        English
+                    </a>
+                  </li>
+                </ul>
+              </div>
+      </nav>
+    </header>
+
+    
+<div class="container">
+  <div class="row-fluid">
+    <section id="MainContent" class="span9">
+      <header>
+        <hgroup class="clearfix">
+          <h1>Featured Speakers</h1>
+          <!--<h3 class="header-sub-text">Rassembler la communauté Python canadienne ensemble</h3>-->
+        </hgroup>
+        <div id="QuickLinks" class="hidden-desktop">
+          <em>Liens rapides:</em> <ul class="unstyled"></ul>
+        </div>
+      </header>
+      
+  <article>
+    <h2>Michael Bayer
+        <a href='https://www.ohloh.net/accounts/5559?ref=Rank'
+           style="border-bottom: none;" target='_top'>
+          <img alt='Ohloh profile for zzzeek' border='0' height='24'
+               src='static/icons/9.gif'
+               width='32' />
+        </a>
+    </h2>
+    <p><a href='http://techspot.zzzeek.org'>Michael Bayer</a> is a software developer in New York City, best known as the creator of the <a href='http://www.sqlalchemy.org/'>SQLAlchemy Database Toolkit for Python</a> as well as <a href='http://www.makotemplates.org/'>Mako Templates for Python</a>. He has worked in the New York interactive industry since 1994 with a wide array of databases and web technologies, settling upon Python as the home for an 'ideal' software development platform in the mid-2000s. His initial open source offering, the Myghty template engine, provided the early underpinnings of the Pylons web framework, which along with its current successor Pyramid remains the 'spiritual' home of the SQLAlchemy and Mako products. </p>
+  </article>
+
+  <article>
+    <h2>Michael Feathers</h2>
+    <p><a href='https://twitter.com/mfeathers'>Michael Feathers</a> is a Member of the Technical Staff at Groupon. Prior to joining Groupon, Michael was the Chief Scientist at Obtiva, and a Senior Consultant with Object Mentor International. Over the years, Michael has spent a great deal of time helping teams alter design over time in code bases. Michael is also the author of the book <a href='http://books.google.ca/books/about/Working_Effectively_with_Legacy_Code.html?id=fB6s_Z6g0gIC'> Working Effectively with Legacy Code</a> (Prentice Hall, 2004). </p>
+  </article>
+
+  <article>
+    <h2>Elizabeth Leddy
+        <a href='https://www.ohloh.net/accounts/124089?ref=Rank'
+           style="border-bottom: none;" target='_top'>
+          <img alt='Ohloh profile for eleddy' border='0' height='24'
+               src='static/icons/8.gif'
+               width='32' />
+        </a>
+    </h2>
+    <p>Elizabeth is an independent Plone consultant working out of Berkley, CA. She has done python web application development and deployment in a variety of frameworks for over 9 years in industries such as upper education, intelligence research and development, healthcare IT, and knowledge management. She is a member of the Plone Foundation and Plone 4.X Framework Team and hosted the 2011 Plone Conference in San Francisco. She can also be seen locally teaching Python web development classes at Noisebridge hacker space in San Francisco.  She is best reached on twitter as <a href='https://twitter.com/eleddy'>@eleddy</a>. </p>
+  </article>
+
+  <article>
+    <h2>Daniel Lindsley
+        <a href='https://www.ohloh.net/accounts/228442?ref=Rank'
+           style="border-bottom: none;" target='_top'>
+          <img alt='Ohloh profile for daniellindsley' border='0' height='24'
+               src='static/icons/8.gif'
+               width='32' />
+        </a>
+    </h2>
+    <p>Pythonista since 2003, Djangonaut since 2006. <a href='https://twitter.com/daniellindsley'>Daniel Lindsley</a> wrote & maintains several OSS projects like <a href='http://django-haystack.readthedocs.org/'>Haystack</a>, Tastypie, pysolr, itty, littleworkers. Loves search, APIs & hard problems. Curator of fine animated gifs. </p>
+  </article>
+
+  <article>
+    <h2>Chris McDonough
+        <a href='https://www.ohloh.net/accounts/12691?ref=Rank'
+           style="border-bottom: none;" target='_top'>
+          <img alt='Ohloh profile for Chris McDonough' border='0' height='24'
+               src='static/icons/9.gif' />
+        </a>
+    </h2>
+    <p><a href='https://twitter.com/chrismcdonough'>Chris McDonough</a> is the primary author of the <a href='http://docs.pylonsproject.org/en/latest/docs/pyramid.html'> Pyramid web application</a> framework. He is a developer and consultant for Agendaless Consulting, a company based in Fredericksburg, VA, USA. His other major projects include <a href='http://supervisord.org/'>Supervisor</a>, a Python process management system. <b>Cancelled:</b> It looks like Chris McDonough won't be able to join us this year after all. He sends his apologies. </p>
+  </article>
+
+  <article>
+    <h2>Jessica McKellar
+        <a href='https://www.ohloh.net/accounts/69607?ref=Rank'
+           style="border-bottom: none;" target='_top'>
+          <img alt='Ohloh profile for jesstess' border='0' height='24'
+               src='static/icons/9.gif'
+               width='32' />
+        </a>
+    </h2>
+    <p><a href='http://jesstess.com'>Jessica McKellar</a> is a software engineer from Cambridge, MA. She is a Python Software Foundation board member and an organizer for the <a href='http://meetup.bostonpython.com/'> largest Python user group in the world</a>. With that group she runs the <a href='http://bostonpythonworkshop.com/'> Boston Python Workshops</a> forwomen and their friends -- an introductory programming pipeline that has brought hundreds of women into the local Python community and is being replicated in cities across the US. <br><br>  Jessica is a veteran open source contributor and a maintainer for several open source projects, including OpenHatch and the Twisted event-driven networking engine; she wrote a chapter on Twisted for <a href='http://www.aosabook.org/en/index.html'>The Architecture of Open Source Applications Volume II</a> and is working with O'Reilly on a new edition of Twisted Networking Essentials. </p>
+  </article>
+
+  <article>
+      <h2>Meredith L. Patterson</h2>
+      <p><a href='https://twitter.com/maradydd'>Meredith</a> is an independent researcher with expertise in areas including database design, data-mining algorithms, complexity theory, computational linguistics, information security, and privacy-enhancing technology systems. She's also a prominent biohacker, active blogger, and published author of multiple short stories, mostly science fiction. </p>
+  </article>
+
+  <article>
+      <h2>Fernando Pérez
+          <a href='https://www.ohloh.net/accounts/37028?ref=Rank'
+             style="border-bottom: none;" target='_top'>
+            <img alt='Ohloh profile for Fernando Perez' border='0' height='24'
+                 src='static/icons/9.gif' />
+          </a>
+      </h2>
+      <p><a href='http://fperez.org/'>Fernando Pérez</a> received his PhD in theoretical physics from the University of Colorado and then worked on numerical algorithm development at the Applied Mathematics Dept. at the same university. He now works as a scientist at the Helen Wills Neuroscience Institute at the University of California, Berkeley, focusing on the development of new analysis methods for brain imaging problems and high-level scientific computing tools. <br><br> Towards the end of his graduate studies, he became involved with the development of Python tools for scientific computing. He started the open source <a href='http://ipython.org/'>IPython</a> project in 2001 when looking for a more efficient interactive workflow for everyday scientific tasks. He continues to lead the IPython project along with a growing team of talented developers. He also is a member of the core matplotlib development team, and has contributed to numpy, scipy, sympy, mayavi and other Python projects. </p>
+  </article>
+
+  <article>
+      <h2>Kenneth Reitz
+          <a href='https://www.ohloh.net/accounts/224806?ref=Rank'
+             style="border-bottom: none;" target='_top'>
+            <img alt='Ohloh profile for kennethreitz' border='0' height='24'
+                 src='static/icons/8.gif'
+                 width='32' />
+          </a>
+      </h2>
+      <p><a href='http://twitter.com/kennethreitz'>Kenneth Reitz</a> is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many <a href='http://kennethreitz.com/pages/open-projects.html'> open source projects</a>, specifically <a href='http://python-requests.org/'>Requests</a>. </p>
+  </article>
+
+  <article>
+      <h2>Brandon Rhodes
+          <a href='https://www.ohloh.net/accounts/32600?ref=Rank'
+             style="border-bottom: none;" target='_top'>
+            <img alt='Ohloh profile for brandon_craig_rhodes' border='0' height='24'
+                 src='static/icons/9.gif'
+                 width='32' />
+          </a>
+      </h2>
+      <p><a href='http://twitter.com/brandon_rhodes'>Brandon Rhodes</a> started using Python in 1997 and has now used it professionally for 14 years. His most recent publication is the book 'Foundations of Python Network Programming' from Apress. For several years he organized Python Atlanta before moving to Ohio and joining the Central Ohio users group. Brandon has spoken at PyCon in both North America and Europe, and has maintained the <a href='http://rhodesmill.org/pyephem/'>PyEphem</a> module for amateur astronomers since 1998. </p>
+  </article>
+
+  <article>
+    <h2>Sandy Walsh</h2>
+    <p>Basé à Halifax, Alex 'Sandy' Walsh est le propriétaire de Darl Secret Software.Il est un développeur professionnel sénior depuis près de 20 ans et un Pythoneux depuis 10 ans. Il est un des principaux développeurs du projet <a href='http://www.openstack.org/'>OpenStack</a> avec Rackspace. Vous pouvez en savoir plus à son sujet sur <a href='http://www.sandywalsh.com/'>sandywalsh.com</a> ou en suivant <a href='https://twitter.com/TheSandyWalsh'>@TheSandyWalsh</a>.</p>
+  </article>
+
+    </section>
+
+    <aside id="side-sponsors" class="span3">
+        <h1>Sponsors</h1>
+        <h2>— <b>Or</b> —</h2>
+        
+<a href="http://500px.com/" style="border-bottom: none;">
+    <img src="static/sponsors/500px_logo_color_sm.png"
+        class=""
+        width="200" height="100"
+        alt="500px">
+</a>
+
+
+        <h2>— <b>Argent</b> —</h2>
+        <div style="margin-left: 5px">
+          
+<a href="http://www.freshbooks.com/">
+    <img src="static/sponsors/freshbooks_sm.png"
+        class=""
+        height="100"
+        alt="FreshBooks">
+</a>
+
+        </div>
+        <div style="margin-left: 5px">
+          
+<a href="http://waveaccounting.com/" style="border-bottom: none;">
+    <img src="static/sponsors/wave_sm.png"
+        style="margin-top: 35px;"
+        class=""
+        width="200"
+        alt="Wave Accounting">
+</a>
+
+        </div>
+        <div style="margin-left: 5px">
+          
+<a href="http://www.chango.com/" style="border-bottom: none;">
+    <img src="static/sponsors/chango_sm.png"
+        style="margin-top: 35px"
+        class=""
+        width="200"
+        alt="Chango">
+</a>
+
+        </div>
+
+        <h2>— <b>Notre vaisseau amiral</b> —</h2>
+        
+<a href="http://www.python.org/psf/" style="border-bottom: none;">
+    <img src="static/sponsors/psf-logo-317x71-alpha.png"
+        class=""
+        style="margin-top: 40px;"
+        width="200"
+        alt="Python Software Foundation">
+</a>
+
+
+        <p class="gutter-top"><a href="sponsors.html" class="bubble">Voir la liste complète des sponsors</a></p>
+        <p class="gutter-top"><a href="mailto:sponsorship@pycon.ca" class="bubble">Détails sur le sponsorship</a></p>
+    </aside>
+  </div>
+</div>
+
+<script>
+  function createQuickLinks() {
+    $("#MainContent h2").not(".sub-head").each(function() {
+      var $this = $(this),
+        navItemHolder = $("<li></li>"),
+        navItem = $("<a></a>");
+
+      if (!$this.attr("id")) {
+        var anchor = $this.text()
+          .toLowerCase()
+          .replace(" ", "-")
+          .replace(/ /g, "")
+          .replace(/[^a-z0-9-]/g, "");
+        $this.attr("id", anchor);
+      }
+
+      navItem
+        .text($this.text())
+        .addClass("bubble bubble-small")
+        .attr("href", "#" + $this.attr("id"));
+
+      navItemHolder
+        .append(navItem)
+
+      $("#QuickLinks ul").append(navItemHolder);
+    });
+  };
+
+  $(function() {
+    createQuickLinks();
+  });
+</script>
+
+
+
+    <footer>
+    <div class="container">
+      <div class="row-fluid">
+          <div class="span6">
+            <nav>
+              <ul class="unstyled">
+                <li>
+                  <a href="index.html">Accueil</a>
+                </li>
+
+                <li>
+                  <a href="about.html">À propos</a>
+                </li>
+
+                <li>
+                  <a href="contact.html">Contact</a>
+                </li>
+
+                <li>
+                  <a href="venue.html">Lieu</a>
+                </li>
+
+                <li>
+                  <a href="schedule.html">Horaire</a>
+                </li>
+
+                <li>
+                  <a href="speakers.html">Présenter</a>
+                </li>
+
+                <li>
+                  <a href="learn.html">Apprendre</a>
+                </li>
+
+                <li>
+                  <a href="sponsors.html">Commanditer</a>
+                </li>
+
+                <li>
+                  <a href="index.html" class="locale-toggle">
+                    <i class="icon-canada nav-icon"></i>
+                    English
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <p>
+              © PyCon Canada 2012
+              <br>
+              <a href="http://www.flickr.com/photos/camstatic/5535319505">Photo par camstatic</a>
+            </p>
+          </div>
+
+          <div class="span6">
+            <div class="fake-head">Rester informé</div>
+            <ul class="unstyled contact-list">
+              <li><span>Twitter</span> <a href="http://twitter.com/pyconca">@pyconca</a></li>
+              <li><span>IRC</span> <a href="irc://irc.freenode.net/#pyconca">#pyconca</a></li>
+              <li><span>Organisateur</span> <a href="mailto:organizers@pycon.ca">organizers@pycon.ca</a></li>
+              <li><span>Liste</span> <a href="mailto:pyconca@googlegroups.com">pyconca@googlegroups.com</a></li>
+              <li><span>GitHub</span> <a href="http://github.com/pyconca">github.com/pyconca</a></li>
+              <li><span>Volontaire</span> <a href="volunteer.html">pycon.ca/volunteer</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35491606-1']);
+      _gaq.push(['_setDomainName', 'pycon.ca']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</body>
+</html>

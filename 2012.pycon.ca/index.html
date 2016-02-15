@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>PyCon.ca - building your Python Canada Community | PyCon Canada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+    	content='Your connection to the Python Canada community. We are the momentum 
+    	behind the Canadian PyCon conference, and the source for local Python programmers, events, and jobs.' />
+    <meta name="author" content="" />
+
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap.css" rel="stylesheet" />
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="static/pycon.css" rel="stylesheet" />
+
+    <script src="static/libs/jquery-1.7.2.min.js"></script>
+    <script src="static/libs/bootstrap-2.0.3/js/bootstrap.min.js"></script>
+    <script src="static/libs/handlebars-1.0.0.beta.6.js"></script>
+    <script src="static/js/handlebars-helpers.js"></script>
+    <script src="static/libs/jquery.tinycarousel.min.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--<script src="//widgets.twimg.com/j/2/widget.js"></script>-->
+  </head>
+
+  <body class="home-page">
+    <header id="MainHeader">
+      <div id="o-hai-can-haz-snake"></div>
+      <nav class="navbar clearfix">
+              <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </a>
+
+              <div class="nav-collapse">
+                <ul class="nav">
+                  <li class="nav-home">
+                    <a href="index.html">
+                        <i class="icon-home icon-white nav-icon"></i>
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-about" data-toggle="dropdown" href="index.html#">
+                        About
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="about.html">
+                          About
+                        </a>
+                      </li>
+                      <li>
+                        <a href="conduct.html">
+                          Code of Conduct
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="venue.html" class="nav-venue">
+                        Venue
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-schedule" data-toggle="dropdown" href="index.html#">
+                        Schedule
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="schedule.html">
+                          Conference
+                        </a>
+                      </li>
+                      <li>
+                        <a href="sprints.html">
+                          Sprints
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="speakers.html" class="nav-speak">
+                        Speak
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="learn.html" class="nav-learn">
+                        Learn
+                    </a>
+                  </li>
+
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle nav-sponsor" data-toggle="dropdown" href="index.html#">
+                      Sponsors
+                      <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="sponsors.html">
+                        All Sponsors
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/500px.html">
+                        Gold Sponsor • 500px
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/freshbooks.html">
+                        Silver Sponsor • FreshBooks
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/chango.html">
+                        Silver Sponsor • Chango
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/wave.html">
+                        Silver Sponsor • Wave
+                      </a>
+                    </li>
+                    <li>
+                      <a href="directory.html">
+                        Independent Sponsors
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                  <li>
+                    <a href="contact.html" class="nav-contact">
+                        Contact
+                    </a>
+                  </li>
+
+                    <li class="nav-spacer nav-auth">
+                      <a href="login.html">
+                          Login
+                      </a>
+                    </li>
+
+                    <li class="nav-auth">
+                      <a href="new/user.html">
+                          Sign Up
+                      </a>
+                    </li>
+
+                  <li class="nav-spacer">
+                    <a href="index.html" class="locale-toggle">
+                        <i class="icon-canada nav-icon"></i>
+                        Français
+                    </a>
+                  </li>
+                </ul>
+              </div>
+      </nav>
+    </header>
+
+    
+
+<section id="Intro">
+  <div class="container">
+    <div id="Banner">
+        <h1>PyCon.ca</h1>
+        <h2>Bringing the Canadian Python community together</h2>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span2"></div>
+      <div class="span8">
+        <p id="Teaser">
+          <span style="color: #E03C31;">
+            November 9 – 13, 2012 • Toronto
+            <br>
+          </span>
+          <br>
+          You're invited to a kickoff conference, Nov 9-13 2012, in Toronto, getting us warmed up for the first <a href='http://us.pycon.org/'>PyCon North America</a> conference outside the US - <a href='http://www.newswire.ca/en/story/731987/montreal-chosen-to-welcome-over-1-500-python-programmers-for-the-world-s-most-important-conference-on-the-subject/'>Montreal in 2014 and 2015!</a> And when that's done, let's keep the momentum going with an annual PyCon in Canada. 
+          <br>
+          <br>
+          <span style="color: #E03C31;">
+            And that&#39;s a wrap, PyCon Canada!
+            <br>
+            <br>
+          </span>
+          Here are the <a href="http://pyvideo.org/category/25/pycon-ca-2012">videos</a> of the PyCon Canada 2012 talks to tide you over until next year!
+          <br>
+          <div id="Register">
+              <a href="http://guestlistapp.com/events/116013" class="guestlist-event-116013 register-button-en">Register</a>
+          </div>
+        </p>
+      </div>
+      <div class="span2"></div>
+    </div>
+
+  </div>
+</section>
+
+<section id="Sponsors">
+  <h2>Our Sponsors</h2>
+  <div id="slider">
+      <div class="viewport">
+          <ul class="overview" style="width: 1560px; left: 0px; ">
+            <li>
+<a href="http://500px.com/" style="border-bottom: none;">
+    <img src="static/sponsors/500px_logo_color_sm.png"
+        class=""
+        width="200" height="100"
+        alt="500px">
+</a>
+</li>
+            <li>
+<a href="http://www.freshbooks.com/">
+    <img src="static/sponsors/freshbooks_sm.png"
+        class=""
+        height="100"
+        alt="FreshBooks">
+</a>
+</li>
+            <li>
+<a href="http://waveaccounting.com/" style="border-bottom: none;">
+    <img src="static/sponsors/wave_sm.png"
+        style="margin-top: 35px;"
+        class=""
+        width="200"
+        alt="Wave Accounting">
+</a>
+</li>
+            <li>
+<a href="http://www.chango.com/" style="border-bottom: none;">
+    <img src="static/sponsors/chango_sm.png"
+        style="margin-top: 35px"
+        class=""
+        width="200"
+        alt="Chango">
+</a>
+</li>
+            <li>
+<a href="http://www.python.org/psf/" style="border-bottom: none;">
+    <img src="static/sponsors/psf-logo-317x71-alpha.png"
+        class=""
+        style="margin-top: 40px;"
+        width="200"
+        alt="Python Software Foundation">
+</a>
+</li>
+            <li>
+<a href="http://google.com/" style="border-bottom: none;">
+    <img src="static/sponsors/google_alpha.png"
+        class=""
+        height="100"
+        style="margin-top: 10px;"
+        alt="Google">
+</a>
+</li>
+            <li>
+<a href="http://points.com/" style="border-bottom: none;">
+    <img src="static/sponsors/points.png"
+        class=""
+        height="110"
+        alt="Points.com">
+</a>
+</li>
+            <li>
+<a href="http://www.crsnetworks.ca/" style="border-bottom: none;">
+    <img src="static/sponsors/CRSlogo_sm.jpg"
+         class=""
+         width="100"
+         alt="CRS Networks">
+</a>
+</li>
+            <li>
+<a href="http://upverter.com/" style="border-bottom: none;">
+    <img src="static/sponsors/upverter_logo_sm.png"
+        class=""
+        width="200px"
+        style="margin-top: 30px;"
+        alt="Upverter">
+</a>
+</li>
+            <li>
+<a href="http://bnotions.com" style="border-bottom: none;">
+    <img src="static/sponsors/BNOTIONS_sm.png"
+        class=""
+        width="200"
+        style="margin-top: 15px;"
+        alt="BNOTIONS">
+</a>
+</li>
+            <li>
+<a href="http://www.mozilla.org/" style="border-bottom: none;">
+    <img src="static/sponsors/mozilla_wordmark_sm.png"
+         class=""
+         width="200"
+         style="margin-top: 15px; margin-left: -15px;"
+         alt="Mozilla">
+</a>
+</li>
+            <li>
+<a href="http://agendaless.com/" style="border-bottom: none;">
+    <img background="black" src="static/sponsors/agendaless_sm.png"
+        class=""
+        width="200"
+        style="margin-left: -15px;"
+        alt="Agendaless">
+</a>
+</li>
+            <li>
+<a href="http://www.heroku.com/" style="border-bottom: none;">
+    <img src="static/sponsors/heroku-logo-light-234x60.png"
+        class=""
+        style="margin-top: 30px; margin-left: -30px;"
+        width="234" height="60"
+        alt="Heroku">
+</a>
+</li>
+            <li>
+<a href="http://www.trapeze.com/" style="border-bottom: none;">
+    <img background="black" src="static/sponsors/trapeze_sm.jpeg"
+        class=""
+        height="100"
+        alt="Trapeze">
+</a>
+</li>
+            <li>
+<a href="http://gurulink.ca/" style="border-bottom: none;">
+    <img src="static/sponsors/gurulink_sm.jpg"
+        class=""
+        width="120"
+        alt="GuruLink">
+</a>
+</li>
+            <li>
+<a href="http://www.cloudant.com/" style="border-bottom: none;">
+    <img src="static/sponsors/cloudant_sm.png"
+        class=""
+        width="234" height="63"
+        style="margin-top: 30px;"
+        alt="Cloudant">
+</a>
+</li>
+            <li>
+<a href="http://www.gadventures.com/">
+    <img src="static/sponsors/gap-adventures-logo-350x70.png"
+        class=""
+        width="200"
+        style="margin-top: 30px;"
+        alt="G Adventures">
+</a>
+</li>
+            <li>
+<a href="http://vmfarms.com/" style="border-bottom: none;">
+    <img src="static/sponsors/vmfarms_logo_sm.png"
+        class=""
+        height="90"
+        style="margin-top: 10px;"
+        alt="VM Farms">
+</a>
+</li>
+            <li>
+<a href="https://www.uber.com/" style="border-bottom: none;">
+    <img src="static/sponsors/UberLargeLogo.png"
+        class=""
+        height="100"
+        style="margin-top: 10px;"
+        alt="Uber">
+</a>
+</li>
+            <li>
+<a href="http://ladieslearningcode.com/" style="border-bottom: none;">
+    <img background="black" src="static/sponsors/llc_sm.png"
+        class=""
+        height="120"
+        alt="Ladies Learning Code">
+</a>
+</li>
+            <li>
+<a href="http://element34.ca" style="border-bottom: none;">
+    <img src="static/sponsors/e34-logo_sm.png"
+        class=""
+        height="100"
+        alt="Element 34">
+</a>
+</li>
+            <li>
+<a href="http://webdesign.danols.com/" style="border-bottom: none;">
+    <img background="black" 
+         src="static/sponsors/danols-web-engineering-logo-square_reasonably_small_sm.png"
+         class=""
+         height="100"
+         alt="Kingston Web Design">
+</a>
+</li>
+            <li>
+<a href="http://albertoconnor.ca/" style="border-bottom: none;">
+    <img src="static/sponsors/albertoconnor_logo_sm.png"
+         class=""
+         width="250"
+         style="margin-top: 30px;"
+         alt="Albert O'Connor Web Developer">
+</a>
+</li>
+            <li>
+<a href="http://amelanche.com/">
+    <img src="static/sponsors/amelanche-logo.png"
+         class=""
+         width="200"
+         style="margin-top: 30px;"
+         alt="Amelanche">
+</a>
+</li>
+            <li>
+<a href="http://montrealpython.org/" style="border-bottom: none;">
+    <img src="static/sponsors/MontrealPythonLogo.png"
+        class=""
+        width="200" height="100"
+        alt="Montréal-Python">
+</a>
+</li>
+            <li>
+<a href="http://versofurniture.com">
+    <img src="static/sponsors/VersoLogo_27Oct2012.png"
+         class=""
+         style="margin-top: 10px;"
+         height="80"
+         alt="Verso Furniture">
+</a>
+</li>
+            </div>
+          </ul>
+      </div>
+  </div>
+  <p class="bubble">Interested in a sponsorship opportunity? <a href="sponsors.html">Learn more</a>.</p>
+</section>
+
+<section id="Blurbs">
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span6 blurb speak">
+        <h2>Speak</h2>
+        <p>Share your knowledge and cool ideas. Submit your proposal for a talk or tutorial by October 1st to organizers@pycon.ca. We'll be sprinting at the conference too, so you can also send us sprint ideas. </p>
+        <a href="speakers.html" class="more-info">More info</a>
+      </div>
+      <div class="span6 blurb learn">
+        <h2>Learn</h2>
+        <p>One of PyCon Canada's goals is to bring experts from the greater Python community to Canada; giving you the opportunity to be inspired and learn from the best! To get you excited, we'll be announcing our featured speakers, one by one, over the coming weeks. Check them out: </p>
+        <a href="learn.html" class="more-info">More info</a>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span6 blurb venue">
+        <h2>Venue</h2>
+        <p>Be there November 9-13, 2012 at Beverley Halls in downtown Toronto. A short walk from the subway, so when you aren't busy coding or chatting with your colleagues you've got lots of stuff to explore nearby. </p>
+        <a href="venue.html" class="more-info">More info</a>
+      </div>
+      <div class="span6 blurb schedule">
+        <h2>Schedule</h2>
+        <p>Start the fun Friday evening with a mix and mingle. Feed your brain at talks on Saturday, and if your sprint team is eager, you can start that night. Sprint or attend talks and tutorials on Sunday. </p>
+        <a href="schedule.html" class="more-info">More info</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  $(function() {
+    $('#slider').tinycarousel({
+      interval: true,
+      intervaltime: 3500,
+      duration: 500
+    });
+  });
+</script>
+
+<script type="text/javascript" src="http://guestlistapp.com/javascripts/guestlist-embed.js"></script>
+
+
+
+    <footer>
+    <div class="container">
+      <div class="row-fluid">
+          <div class="span6">
+            <nav>
+              <ul class="unstyled">
+                <li>
+                  <a href="index.html">Home</a>
+                </li>
+
+                <li>
+                  <a href="about.html">About</a>
+                </li>
+
+                <li>
+                  <a href="contact.html">Contact</a>
+                </li>
+
+                <li>
+                  <a href="venue.html">Venue</a>
+                </li>
+
+                <li>
+                  <a href="schedule.html">Schedule</a>
+                </li>
+
+                <li>
+                  <a href="speakers.html">Speak</a>
+                </li>
+
+                <li>
+                  <a href="learn.html">Learn</a>
+                </li>
+
+                <li>
+                  <a href="sponsors.html">Sponsor</a>
+                </li>
+
+                <li>
+                  <a href="index.html" class="locale-toggle">
+                    <i class="icon-canada nav-icon"></i>
+                    Français
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <p>
+              © PyCon Canada 2012
+              <br>
+              <a href="http://www.flickr.com/photos/camstatic/5535319505">Photo by camstatic</a>
+            </p>
+          </div>
+
+          <div class="span6">
+            <div class="fake-head">Get in touch</div>
+            <ul class="unstyled contact-list">
+              <li><span>Twitter</span> <a href="http://twitter.com/pyconca">@pyconca</a></li>
+              <li><span>IRC</span> <a href="irc://irc.freenode.net/#pyconca">#pyconca</a></li>
+              <li><span>Board</span> <a href="mailto:organizers@pycon.ca">organizers@pycon.ca</a></li>
+              <li><span>List</span> <a href="mailto:pyconca@googlegroups.com">pyconca@googlegroups.com</a></li>
+              <li><span>GitHub</span> <a href="http://github.com/pyconca">github.com/pyconca</a></li>
+              <li><span>Volunteer</span> <a href="volunteer.html">pycon.ca/volunteer</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35491606-1']);
+      _gaq.push(['_setDomainName', 'pycon.ca']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</body>
+</html>

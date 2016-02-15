@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "As more and more of the web experience moves into the browser, enabling acesss to your application's data via asynchronous HTTP calls is increasingly more important.  Pyramid is a lightweight web framework which has several features for serviing such queries easy.", 
+      "bio": "", 
+      "conf_key": 21, 
+      "conf_url": "http://2012.pycon.ca/talk/21", 
+      "description": "As more and more of the web experience moves into the browser, enabling acesss to your application's data via asynchronous HTTP calls is increasingly more important.  Pyramid is a lightweight web framework which has several features for serviing such queries easy.", 
+      "duration": 20, 
+      "end": "2012-11-10T15:20:00-05:00", 
+      "id": 21, 
+      "level": "novice", 
+      "name": "Lightweight Web Services with Pyramid", 
+      "owner_id": 51, 
+      "room": "Lower hall", 
+      "schedule_code": "A9", 
+      "schedule_slot_id": 17, 
+      "speaker_first_name": "Tres", 
+      "speaker_last_name": "Seaver", 
+      "start": "2012-11-10T15:00:00-05:00", 
+      "title": "Lightweight Web Services with Pyramid", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

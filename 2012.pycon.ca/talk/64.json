@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "This talk will showcase the integration of Google Map API, Maptronics and OpenStreetMap Data with Python in the context of a reuse store locator module. We will show you the basics of how to setup your project and what you need to know about rendering maps, parsing and importing the data, etc. in Python. Python is the best language for doing GIS.", 
+      "bio": "TBD", 
+      "conf_key": 64, 
+      "conf_url": "http://2012.pycon.ca/talk/64", 
+      "description": "This talk will showcase the integration of Google Map API, Maptronics and OpenStreetMap Data with Python in the context of a reuse store locator module. We will show you the basics of how to setup your project and what you need to know about rendering maps, parsing and importing the data, etc. in Python. Python is the best language for doing GIS.", 
+      "duration": 5, 
+      "end": "2012-11-11T15:50:00-05:00", 
+      "id": 64, 
+      "level": "novice", 
+      "name": "Integrating Geocode Data  with Python", 
+      "owner_id": 89, 
+      "room": "Main hall", 
+      "schedule_code": "L7", 
+      "schedule_slot_id": 50, 
+      "speaker_first_name": "Karen", 
+      "speaker_last_name": "Bennet", 
+      "start": "2012-11-11T15:45:00-05:00", 
+      "title": "Integrating Geocode Data  with Python", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

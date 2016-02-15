@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Find and fix your performance bottlenecks. Where should you spend your time so your users don't have to spend theirs waiting for your code? Topics covered: algorithmic complexity (\"big O\" notation); using the right algorithm for the job; profiling to find the hot spots; micro-optimization tricks; caching vs. computing; storage hierarchies; and when/how you should turn to C. ", 
+      "bio": "TBD", 
+      "conf_key": 14, 
+      "conf_url": "http://2012.pycon.ca/talk/14", 
+      "description": "Find and fix your performance bottlenecks. Where should you spend your time so your users don't have to spend theirs waiting for your code? Topics covered: algorithmic complexity (\"big O\" notation); using the right algorithm for the job; profiling to find the hot spots; micro-optimization tricks; caching vs. computing; storage hierarchies; and when/how you should turn to C. ", 
+      "duration": 120, 
+      "end": "2012-11-11T14:55:00-05:00", 
+      "id": 14, 
+      "level": "experienced", 
+      "name": "Fast, Faster, Fastest: Getting the Best Performance From Python", 
+      "owner_id": 10, 
+      "room": "Tutorial room", 
+      "schedule_code": "T4", 
+      "schedule_slot_id": 41, 
+      "speaker_first_name": "Greg", 
+      "speaker_last_name": "Ward", 
+      "start": "2012-11-11T12:55:00-05:00", 
+      "title": "Fast, Faster, Fastest: Getting the Best Performance From Python", 
+      "type": "tutorial", 
+      "video_release": false
+    }
+  }, 
+  "errors": []
+}

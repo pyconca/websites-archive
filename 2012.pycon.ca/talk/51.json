@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Did you know that you could contribute to Python?  From documentation\r\nwork to patch reviews to new features to blogging, there are a number of\r\nways you can give back to Python.  This talk for beginners will walk you\r\nthrough these ways with concrete demonstrations.", 
+      "bio": "TBD", 
+      "conf_key": 51, 
+      "conf_url": "http://2012.pycon.ca/talk/51", 
+      "description": "Did you know that you could contribute to Python?  From documentation\r\nwork to patch reviews to new features to blogging, there are a number of\r\nways you can give back to Python.  This talk for beginners will walk you\r\nthrough these ways with concrete demonstrations.", 
+      "duration": 20, 
+      "end": "2012-11-11T15:10:00-05:00", 
+      "id": 51, 
+      "level": "novice", 
+      "name": "How you can contribute to Python", 
+      "owner_id": 66, 
+      "room": "Main hall", 
+      "schedule_code": "A25", 
+      "schedule_slot_id": 46, 
+      "speaker_first_name": "\u00c9ric", 
+      "speaker_last_name": "Araujo", 
+      "start": "2012-11-11T14:50:00-05:00", 
+      "title": "How you can contribute to Python", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

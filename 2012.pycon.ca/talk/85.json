@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "GEvent + ZMQ", 
+      "bio": "CIO at Upverter.", 
+      "conf_key": 85, 
+      "conf_url": "http://2012.pycon.ca/talk/85", 
+      "description": "GEvent + ZMQ", 
+      "duration": 20, 
+      "end": "2012-11-10T15:45:00-05:00", 
+      "id": 85, 
+      "level": "novice", 
+      "name": "GEvent + ZMQ", 
+      "owner_id": 136, 
+      "room": "Lower hall", 
+      "schedule_code": "A10", 
+      "schedule_slot_id": 18, 
+      "speaker_first_name": "Michael", 
+      "speaker_last_name": "Woodworth", 
+      "start": "2012-11-10T15:25:00-05:00", 
+      "title": "GEvent + ZMQ", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

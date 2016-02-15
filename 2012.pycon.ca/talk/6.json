@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "HDF5 is a hierarchical, binary database format that has become a *de facto* standard for scientific computing.  While the specification may be used in a relatively simple way (persistence of static arrays) it also supports several high-level features that prove invaluable. These include chunking, ragged data, extensible data, parallel I/O, compression, complex selection, and in-core calculations. ", 
+      "bio": "TBD", 
+      "conf_key": 6, 
+      "conf_url": "http://2012.pycon.ca/talk/6", 
+      "description": "HDF5 is a hierarchical, binary database format that has become a *de facto* standard for scientific computing.  While the specification may be used in a relatively simple way (persistence of static arrays) it also supports several high-level features that prove invaluable. These include chunking, ragged data, extensible data, parallel I/O, compression, complex selection, and in-core calculations. ", 
+      "duration": 90, 
+      "end": "2012-11-10T11:55:00-05:00", 
+      "id": 6, 
+      "level": "novice", 
+      "name": "HDF5 is for Lovers", 
+      "owner_id": 32, 
+      "room": "Tutorial room", 
+      "schedule_code": "T1", 
+      "schedule_slot_id": 4, 
+      "speaker_first_name": "Anthony", 
+      "speaker_last_name": "Scopatz", 
+      "start": "2012-11-10T10:25:00-05:00", 
+      "title": "HDF5 is for Lovers", 
+      "type": "tutorial", 
+      "video_release": false
+    }
+  }, 
+  "errors": []
+}

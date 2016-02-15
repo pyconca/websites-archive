@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "This talk is about Jones, a robust configuration management interface for Zookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about the problems of configuration management and how it can be solved using the primitives available in ZooKeeper. If there's time I will go in to additional use cases of ZooKeeper.", 
+      "bio": "TBD", 
+      "conf_key": 12, 
+      "conf_url": "http://2012.pycon.ca/talk/12", 
+      "description": "This talk is about Jones, a robust configuration management interface for Zookeeper. It will cover what ZooKeeper is, and how it works. I'll talk about the problems of configuration management and how it can be solved using the primitives available in ZooKeeper. If there's time I will go in to additional use cases of ZooKeeper.", 
+      "duration": 45, 
+      "end": "2012-11-10T14:45:00-05:00", 
+      "id": 12, 
+      "level": "experienced", 
+      "name": "Configuration management with ZooKeeper", 
+      "owner_id": 45, 
+      "room": "Main hall", 
+      "schedule_code": "B4", 
+      "schedule_slot_id": 13, 
+      "speaker_first_name": "Matthew", 
+      "speaker_last_name": "Hooker", 
+      "start": "2012-11-10T14:00:00-05:00", 
+      "title": "Configuration management with ZooKeeper", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

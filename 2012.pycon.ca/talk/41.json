@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Cloudant Engineer Joan Touzet will explain the design decisions that led the company to rewrite the supporting API layer to all its back-end systems in Python using the Flask microframework to create a unified, RESTful API.", 
+      "bio": "", 
+      "conf_key": 41, 
+      "conf_url": "http://2012.pycon.ca/talk/41", 
+      "description": "Cloudant Engineer Joan Touzet will explain the design decisions that led the company to rewrite the supporting API layer to all its back-end systems in Python using the Flask microframework to create a unified, RESTful API.", 
+      "duration": 20, 
+      "end": "2012-11-10T13:50:00-05:00", 
+      "id": 41, 
+      "level": "novice", 
+      "name": "Hit the Flask and Get Some REST: Rewriting the Cloudant API in a Single Python Back End", 
+      "owner_id": 86, 
+      "room": "Lower hall", 
+      "schedule_code": "A6", 
+      "schedule_slot_id": 12, 
+      "speaker_first_name": "Joan", 
+      "speaker_last_name": "Touzet", 
+      "start": "2012-11-10T13:30:00-05:00", 
+      "title": "Hit the Flask and Get Some REST: Rewriting the Cloudant API in a Single Python Back End", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

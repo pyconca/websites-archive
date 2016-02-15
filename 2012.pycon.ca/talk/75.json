@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "OpenStack is a large python application being developed collaboratively with Rackspace, Red Hat, Canonical, Dell, HP, Intel, IBM, Citrix and a host of other companies. This application is the software that Cloud Computing is built on. It is a controller for massive farms of hypervisors. In this talk, you'll learn about the architecture and implementation of OpenStack.", 
+      "bio": "Based in Halifax, Alex 'Sandy' Walsh is the owner of Dark Secret Software. He has been a senior professional developer for nearly 20 years and a Pythonista for 10 years. He is a core developer on the OpenStack project with Rackspace. You can learn more about him at sandywalsh.com or follow @TheSandyWalsh.", 
+      "conf_key": 75, 
+      "conf_url": "http://2012.pycon.ca/talk/75", 
+      "description": "OpenStack is a large python application being developed collaboratively with Rackspace, Red Hat, Canonical, Dell, HP, Intel, IBM, Citrix and a host of other companies. This application is the software that Cloud Computing is built on. It is a controller for massive farms of hypervisors. In this talk, you'll learn about the architecture and implementation of OpenStack.", 
+      "duration": 45, 
+      "end": "2012-11-11T13:40:00-05:00", 
+      "id": 75, 
+      "level": "novice", 
+      "name": "Introduction to OpenStack", 
+      "owner_id": 102, 
+      "room": "Main hall", 
+      "schedule_code": "B8", 
+      "schedule_slot_id": 39, 
+      "speaker_first_name": "Sandy", 
+      "speaker_last_name": "Walsh", 
+      "start": "2012-11-11T12:55:00-05:00", 
+      "title": "Introduction to OpenStack", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

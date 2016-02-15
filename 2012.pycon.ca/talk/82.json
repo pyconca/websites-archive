@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Opening Remarks, by Diana and others.", 
+      "bio": "Conference Chair", 
+      "conf_key": 82, 
+      "conf_url": "http://2012.pycon.ca/talk/82", 
+      "description": "Opening Remarks, by Diana and others.", 
+      "duration": 30, 
+      "end": "2012-11-10T09:30:00-05:00", 
+      "id": 82, 
+      "level": "novice", 
+      "name": "Welcome to PyCon Canada", 
+      "owner_id": 6, 
+      "room": "Main hall", 
+      "schedule_code": "X1", 
+      "schedule_slot_id": 59, 
+      "speaker_first_name": "Diana", 
+      "speaker_last_name": "Clarke", 
+      "start": "2012-11-10T09:00:00-05:00", 
+      "title": "Welcome to PyCon Canada", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

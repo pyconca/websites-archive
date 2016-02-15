@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Why did I start using Python in the late 1990s? Was it for any of the reasons that I remain a fan today? In this talk we will explore how Python, even while training us to avoid and become blind to its rough edges, works to teach us new ways of making programs beautiful. Even novices should learn new things to love about Python by listening to this talk!", 
+      "bio": "Brandon started using Python in 1997 and has now used it professionally for 14 years. His most recent publication is the book \"Foundations of Python Network Programming\" from Apress. For several years he organized Python Atlanta before moving to Ohio and joining the Central Ohio users group. He has spoken at PyCon in both North America and Europe, and have maintained the PyEphem module for amateur astronomers since 1998.", 
+      "conf_key": 73, 
+      "conf_url": "http://2012.pycon.ca/talk/73", 
+      "description": "Why did I start using Python in the late 1990s? Was it for any of the reasons that I remain a fan today? In this talk we will explore how Python, even while training us to avoid and become blind to its rough edges, works to teach us new ways of making programs beautiful. Even novices should learn new things to love about Python by listening to this talk!", 
+      "duration": 45, 
+      "end": "2012-11-10T13:50:00-05:00", 
+      "id": 73, 
+      "level": "experienced", 
+      "name": "A Python \u00c6sthetic: Beauty and Why I Python", 
+      "owner_id": 106, 
+      "room": "Main hall", 
+      "schedule_code": "B3", 
+      "schedule_slot_id": 9, 
+      "speaker_first_name": "Brandon", 
+      "speaker_last_name": "Rhodes", 
+      "start": "2012-11-10T13:05:00-05:00", 
+      "title": "A Python \u00c6sthetic: Beauty and Why I Python", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "The Santa Claus Problem is a conceptually simple but notoriously tough concurrency problem. For 20 years, the problem has been used to highlight new concurrency features. Polyphonic C# sports an elegant solution using join patterns. I prototyped a version of join patterns for Stackless Python. Rather than hack Stackless Python's C code base, I use PyPy's stackless.py module and greenlets!", 
+      "bio": "", 
+      "conf_key": 60, 
+      "conf_url": "http://2012.pycon.ca/talk/60", 
+      "description": "The Santa Claus Problem is a conceptually simple but notoriously tough concurrency problem. For 20 years, the problem has been used to highlight new concurrency features. Polyphonic C# sports an elegant solution using join patterns. I prototyped a version of join patterns for Stackless Python. Rather than hack Stackless Python's C code base, I use PyPy's stackless.py module and greenlets!", 
+      "duration": 45, 
+      "end": "2012-11-11T14:35:00-05:00", 
+      "id": 60, 
+      "level": "novice", 
+      "name": "How to Solve a Problem Like Santa Claus", 
+      "owner_id": 98, 
+      "room": "Main hall", 
+      "schedule_code": "B9", 
+      "schedule_slot_id": 43, 
+      "speaker_first_name": "Andrew", 
+      "speaker_last_name": "Francis", 
+      "start": "2012-11-11T13:50:00-05:00", 
+      "title": "How to Solve a Problem Like Santa Claus", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

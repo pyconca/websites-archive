@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Are your queries slow? Learn how to speed them up through better SQL crafting and use meaningful indices. Attendees will understand what works well and what doesn't, and will walk away with a checklist for faster databases.", 
+      "bio": "Anna is a long-time Web developer and is currently vice-president at FooLab. When programming, she uses mainly PHP and Javascript, with an emphasis on performance, usability and timely shipping. When she\u2019s not training developers or speaking abroad, Anna organizes social and educational events for PHP Quebec as well as the ConFoo conference.", 
+      "conf_key": 26, 
+      "conf_url": "http://2012.pycon.ca/talk/26", 
+      "description": "Are your queries slow? Learn how to speed them up through better SQL crafting and use meaningful indices. Attendees will understand what works well and what doesn't, and will walk away with a checklist for faster databases.", 
+      "duration": 20, 
+      "end": "2012-11-11T15:35:00-05:00", 
+      "id": 26, 
+      "level": "experienced", 
+      "name": "Speed Up Your Database", 
+      "owner_id": 55, 
+      "room": "Lower hall", 
+      "schedule_code": "A28", 
+      "schedule_slot_id": 49, 
+      "speaker_first_name": "Anna", 
+      "speaker_last_name": "Filina", 
+      "start": "2012-11-11T15:15:00-05:00", 
+      "title": "Speed Up Your Database", 
+      "type": "tutorial", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

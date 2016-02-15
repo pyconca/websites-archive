@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "When web apps reach a certain size, often their data footprint will outgrow what can reasonably be stored on a single database. Scaling your database horizontally by adding more servers is the dream but it can be a daunting task. This talk outlines the process I used to add horizontal scaling to Wave Accounting's infrastructure. ", 
+      "bio": "", 
+      "conf_key": 55, 
+      "conf_url": "http://2012.pycon.ca/talk/55", 
+      "description": "When web apps reach a certain size, often their data footprint will outgrow what can reasonably be stored on a single database. Scaling your database horizontally by adding more servers is the dream but it can be a daunting task. This talk outlines the process I used to add horizontal scaling to Wave Accounting's infrastructure. ", 
+      "duration": 20, 
+      "end": "2012-11-11T13:15:00-05:00", 
+      "id": 55, 
+      "level": "experienced", 
+      "name": "Horizontally Scaling Your Database with Django", 
+      "owner_id": 75, 
+      "room": "Lower hall", 
+      "schedule_code": "A21", 
+      "schedule_slot_id": 40, 
+      "speaker_first_name": "Ash", 
+      "speaker_last_name": "Christopher", 
+      "start": "2012-11-11T12:55:00-05:00", 
+      "title": "Horizontally Scaling Your Database with Django", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

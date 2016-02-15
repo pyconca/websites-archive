@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "GPIO on the Raspberry Pi with Python.\r\n\r\n", 
+      "bio": "", 
+      "conf_key": 68, 
+      "conf_url": "http://2012.pycon.ca/talk/68", 
+      "description": "GPIO on the Raspberry Pi with Python.\r\n\r\n", 
+      "duration": 5, 
+      "end": "2012-11-11T16:04:00-05:00", 
+      "id": 68, 
+      "level": "novice", 
+      "name": "GPIO on the Raspberry Pi", 
+      "owner_id": 92, 
+      "room": "Main hall", 
+      "schedule_code": "L9", 
+      "schedule_slot_id": 52, 
+      "speaker_first_name": "Bonnie", 
+      "speaker_last_name": "King", 
+      "start": "2012-11-11T15:59:00-05:00", 
+      "title": "GPIO on the Raspberry Pi", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

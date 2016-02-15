@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Python\u2019s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We\u2019ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.", 
+      "bio": "Kenneth Reitz is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically Requests.", 
+      "conf_key": 4, 
+      "conf_url": "http://2012.pycon.ca/talk/4", 
+      "description": "Python\u2019s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We\u2019ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.", 
+      "duration": 45, 
+      "end": "2012-11-11T10:55:00-05:00", 
+      "id": 4, 
+      "level": "novice", 
+      "name": "Python for Humans", 
+      "owner_id": 29, 
+      "room": "Main hall", 
+      "schedule_code": "B6", 
+      "schedule_slot_id": 32, 
+      "speaker_first_name": "Kenneth", 
+      "speaker_last_name": "Reitz", 
+      "start": "2012-11-11T10:10:00-05:00", 
+      "title": "Python for Humans", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

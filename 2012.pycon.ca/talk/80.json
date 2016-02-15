@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "TBD", 
+      "bio": "Meredith is an independent researcher with expertise in areas including database design, data-mining algorithms, complexity theory, computational linguistics, information security, and privacy-enhancing technology systems. She's also a prominent biohacker, active blogger, and published author of multiple short stories, mostly science fiction.", 
+      "conf_key": 80, 
+      "conf_url": "http://2012.pycon.ca/talk/80", 
+      "description": "TBD", 
+      "duration": 20, 
+      "end": "2012-11-10T16:15:00-05:00", 
+      "id": 80, 
+      "level": "novice", 
+      "name": "Fail Faster, Fail Better", 
+      "owner_id": 125, 
+      "room": "Main hall", 
+      "schedule_code": "A11", 
+      "schedule_slot_id": 19, 
+      "speaker_first_name": "Meredith L.", 
+      "speaker_last_name": "Patterson", 
+      "start": "2012-11-10T15:55:00-05:00", 
+      "title": "Fail Faster, Fail Better", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

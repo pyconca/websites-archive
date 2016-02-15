@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>Lieu | PyCon Canada</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+    	content='Your connection to the Python Canada community. We are the momentum 
+    	behind the Canadian PyCon conference, and the source for local Python programmers, events, and jobs.' />
+    <meta name="author" content="" />
+
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap.css" rel="stylesheet" />
+    <link href="static/libs/bootstrap-2.0.3/css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="static/pycon.css" rel="stylesheet" />
+
+    <script src="static/libs/jquery-1.7.2.min.js"></script>
+    <script src="static/libs/bootstrap-2.0.3/js/bootstrap.min.js"></script>
+    <script src="static/libs/handlebars-1.0.0.beta.6.js"></script>
+    <script src="static/js/handlebars-helpers.js"></script>
+    <script src="static/libs/jquery.tinycarousel.min.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!--<script src="//widgets.twimg.com/j/2/widget.js"></script>-->
+  </head>
+
+  <body class="venue-section">
+    <header id="MainHeader">
+      <div id="o-hai-can-haz-snake"></div>
+      <nav class="navbar clearfix">
+              <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </a>
+
+              <div class="nav-collapse">
+                <ul class="nav">
+                  <li class="nav-home">
+                    <a href="index.html">
+                        <i class="icon-home icon-white nav-icon"></i>
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-about" data-toggle="dropdown" href="venue.html#">
+                        À propos
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="about.html">
+                          À propos
+                        </a>
+                      </li>
+                      <li>
+                        <a href="conduct.html">
+                          Code de conduite
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="venue.html" class="nav-venue">
+                        Lieu
+                    </a>
+                  </li>
+
+                  <li class="dropdown">
+                    <a class="dropdown-toggle nav-schedule" data-toggle="dropdown" href="venue.html#">
+                        Horaire
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li>
+                        <a href="schedule.html">
+                          Conférence
+                        </a>
+                      </li>
+                      <li>
+                        <a href="sprints.html">
+                          Sprints
+                        </a>
+                      </li>
+                    </ul>
+                  </li>
+
+                  <li>
+                    <a href="speakers.html" class="nav-speak">
+                        Présenter
+                    </a>
+                  </li>
+
+                  <li>
+                    <a href="learn.html" class="nav-learn">
+                        Apprendre
+                    </a>
+                  </li>
+
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle nav-sponsor" data-toggle="dropdown" href="venue.html#">
+                      Sponsors
+                      <b class="caret"></b>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li>
+                      <a href="sponsors.html">
+                        Tous les Sponsors
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/500px.html">
+                        Sponsor Or • 500px
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/freshbooks.html">
+                        Sponsor Argent • FreshBooks
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/chango.html">
+                        Sponsor Argent • Chango
+                      </a>
+                    </li>
+                    <li>
+                      <a href="sponsors/wave.html">
+                        Sponsor Argent • Wave
+                      </a>
+                    </li>
+                    <li>
+                      <a href="directory.html">
+                        Sponsors Indépendants
+                      </a>
+                    </li>
+                  </ul>
+                </li>
+                  <li>
+                    <a href="contact.html" class="nav-contact">
+                        Contact
+                    </a>
+                  </li>
+
+                    <li class="nav-spacer nav-auth">
+                      <a href="login.html">
+                          Connexion
+                      </a>
+                    </li>
+
+                    <li class="nav-auth">
+                      <a href="new/user.html">
+                          S&#39;inscrire
+                      </a>
+                    </li>
+
+                  <li class="nav-spacer">
+                    <a href="index.html" class="locale-toggle">
+                        <i class="icon-canada nav-icon"></i>
+                        English
+                    </a>
+                  </li>
+                </ul>
+              </div>
+      </nav>
+    </header>
+
+    
+<div class="container">
+  <div class="row-fluid">
+    <section id="MainContent" class="span9">
+      <header>
+        <hgroup class="clearfix">
+          <h1>Lieu</h1>
+          <!--<h3 class="header-sub-text">Rassembler la communauté Python canadienne ensemble</h3>-->
+        </hgroup>
+        <div id="QuickLinks" class="hidden-desktop">
+          <em>Liens rapides:</em> <ul class="unstyled"></ul>
+        </div>
+      </header>
+      
+  <article>
+    <h2>Emplacement</h2>
+    <p>La conférence se tiendra au Beverley Halls, 206 rue Beverley, Toronto, juste au sud de l'intersection College/Beverley. </p>
+
+    <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=209898849797428860102.0004c67cb66abadbf199e&amp;msa=0&amp;ie=UTF8&amp;ll=43.654196,-79.395704&amp;spn=0.01228,0.019205&amp;t=m&amp;iwloc=0004c67cb66b9121bbdbe&amp;output=embed"></iframe>
+    <small>Voir complètement la <a href="https://maps.google.com/maps/ms?msid=209898849797428860102.0004c67cb66abadbf199e&amp;msa=0&amp;ie=UTF8&amp;ll=43.654196,-79.395704&amp;spn=0.01228,0.019205&amp;t=m&amp;iwloc=0004c67cb66b9121bbdbe&amp;source=embed">carte de PyCon Canada 2012</a>.</small>
+  </article>
+
+  <article>
+    <h2>Se rendre à Toronto</h2>
+    <p>Toronto a 2 principaux aéroports. <a href='http://www.gtaa.com'>Pearson</a> est l'aéroport international et est l'endroit où sont basées la plupart des principales compagnies aériennes domestiques et internationales. L'aéroport est à 35 minutes de route de Beverley Halls, mais sachez qu'il y a du trafic dans le centre-ville de Toronto toute la journée, particulièrement lors des heures de pointe. Prévoyez donc au moins une heure de trajet à partir de l'aéroport. </p>
+    <p><a href='http://www.flyporter.com'>Porter Airlines</a> est situé sur l'Île de Toronto juste au sud de Union Station, le principal point de transit du centre-ville de Toronto, donnant accès notamment à Go Transit, TTC (le service local d'autobus, de tram et de métro) et VIA Rail. </p>
+    <p>VIA est une bonne alternative aux compagnies aériennes si vous venez de Montréal ou d'Ottawa, par exemple. Il y a souvent des rabais sur les réservations à l'avance. </p>
+
+    <p>
+      Si vous arrivez des É.U.:
+      <ul>
+        <li>Assurez-vous d'avoir un passeport valide et n'oubliez pas de l'amener avec vous. </li>
+        <li><a href='http://www.flyporter.com'>Porter Airlines</a> a des vols fréquents à des prix raisonnables à destination de Toronto à partir de plusieurs villes des É.U., notamment Boston, Burlington (VT), Chicago, Myrtle Beach, New-York et Washington. </li>
+      </ul>
+    </p>
+  </article>
+
+  <article>
+    <h2>Transport public et stationnement</h2>
+    <p>Beverly Halls est à courte distance à pied à partir de plusieurs arrêts du transport public. <a href='http://maps.google.ca/maps?daddr=206+Beverley+St,+Toronto,+ON+M5T+1Z3&hl=en&sll=43.657192,-79.395382&sspn=0.019933,0.077162&geocode=FWYnmgId0oVE-ynn5LTlxjQriDEq_o2na7PIDw&dirflg=r&ttype=now&noexp=0&noal=0&sort=def&mra=ltm&t=m&z=14&start=0'>Google Map</a> peut être utilisée pour trouver le meilleur itinéraire et le <a href='http://www.ttc.ca/'>site de TTC</a> pour les tarifs. </p>
+    <p>Il y a du stationnement payant sur la rue Beverly et sur les rues secondaires autour et du stationnement gratuit est même disponible les fins de semaine.Il y a un espace de stationnement payant Green P proche, que vous pouvez repérersur la <a href='https://maps.google.com/maps/ms?msid=209898849797428860102.0004c67cb66abadbf199e&amp;msa=0&amp;ie=UTF8&amp;ll=43.654196,-79.395704&amp;spn=0.01228,0.019205&amp;t=m&amp;iwloc=0004c67cb66b9121bbdbe&amp;source=embed'>carte de PyCon Canada 2012</a>. </p>
+  </article>
+
+  <article>
+    <h2>Nourriture</h2>
+    <p>Un lunch sera fourni samedi et dimanche, donc laissez nous savoir si vous avez des contraintes diététiques. Pour vos autres repas, il y a plusieurs possibilités sur la rue College et l'avenue Spadina. D'autres options existent sur les rues Elm et Baldwin, au sud de la conférence - certains restaurants sont plus dispendieux. </p>
+  </article>
+
+  <article>
+    <h2>Hôtel</h2>
+    <p>
+    The recommended hotel for PyCon Canada is the Metropolitan.
+    </p> 
+
+    <address>
+      Metropolitan Hotel Toronto<br>
+      108 Chestnut Street<br>
+      Toronto, Ontario</br>
+      M5G 1R3, Canada<br>
+      (416) 977-5000<br>
+    </address>
+
+    <p>
+    <strong>Use this link to reserve rooms: </strong>
+    <a href='https://gc.synxis.com/rez.aspx?Hotel=27076&Chain=10237&template=YYZME&shell=YYZME&group=236098'>Metropolitan Hotel</a>
+    </p>
+
+    <p>
+    The hotel rate is $120 per night 
+    (plus 13% Harmonized Sales Tax, and $8.00 per day room facilities fee).
+    This includes:
+    </p>
+      <ul>
+        <li>Two double beds</li>
+        <li>Free wireless</li>
+        <li>Local phone calls</li>
+        <li>Access to the health club</li>
+      </ul>
+
+    <p>
+    If you would like to share a hotel room with someone else attending the
+    conference, please see the PyCon Canada
+    <a href='https://github.com/pyconca/2012-wiki/wiki/Room-Sharing'>
+    room sharing wiki</a> page.
+
+    <p>
+    The PyCon Canada block of hotel rooms is reserved under the name 'PYCONCA ASSOCIATION'.
+    </p>
+
+    <p>
+    Email <a href='mailto:organizers@pycon.ca'>organizers@pycon.ca</a> if you 
+    run into any trouble reserving your room, or finding someone to share a 
+    room with.
+    </p>
+  </article>
+
+    </section>
+
+    <aside id="side-sponsors" class="span3">
+        <h1>Sponsors</h1>
+        <h2>— <b>Or</b> —</h2>
+        
+<a href="http://500px.com/" style="border-bottom: none;">
+    <img src="static/sponsors/500px_logo_color_sm.png"
+        class=""
+        width="200" height="100"
+        alt="500px">
+</a>
+
+
+        <h2>— <b>Argent</b> —</h2>
+        <div style="margin-left: 5px">
+          
+<a href="http://www.freshbooks.com/">
+    <img src="static/sponsors/freshbooks_sm.png"
+        class=""
+        height="100"
+        alt="FreshBooks">
+</a>
+
+        </div>
+        <div style="margin-left: 5px">
+          
+<a href="http://waveaccounting.com/" style="border-bottom: none;">
+    <img src="static/sponsors/wave_sm.png"
+        style="margin-top: 35px;"
+        class=""
+        width="200"
+        alt="Wave Accounting">
+</a>
+
+        </div>
+        <div style="margin-left: 5px">
+          
+<a href="http://www.chango.com/" style="border-bottom: none;">
+    <img src="static/sponsors/chango_sm.png"
+        style="margin-top: 35px"
+        class=""
+        width="200"
+        alt="Chango">
+</a>
+
+        </div>
+
+        <h2>— <b>Notre vaisseau amiral</b> —</h2>
+        
+<a href="http://www.python.org/psf/" style="border-bottom: none;">
+    <img src="static/sponsors/psf-logo-317x71-alpha.png"
+        class=""
+        style="margin-top: 40px;"
+        width="200"
+        alt="Python Software Foundation">
+</a>
+
+
+        <p class="gutter-top"><a href="sponsors.html" class="bubble">Voir la liste complète des sponsors</a></p>
+        <p class="gutter-top"><a href="mailto:sponsorship@pycon.ca" class="bubble">Détails sur le sponsorship</a></p>
+    </aside>
+  </div>
+</div>
+
+<script>
+  function createQuickLinks() {
+    $("#MainContent h2").not(".sub-head").each(function() {
+      var $this = $(this),
+        navItemHolder = $("<li></li>"),
+        navItem = $("<a></a>");
+
+      if (!$this.attr("id")) {
+        var anchor = $this.text()
+          .toLowerCase()
+          .replace(" ", "-")
+          .replace(/ /g, "")
+          .replace(/[^a-z0-9-]/g, "");
+        $this.attr("id", anchor);
+      }
+
+      navItem
+        .text($this.text())
+        .addClass("bubble bubble-small")
+        .attr("href", "#" + $this.attr("id"));
+
+      navItemHolder
+        .append(navItem)
+
+      $("#QuickLinks ul").append(navItemHolder);
+    });
+  };
+
+  $(function() {
+    createQuickLinks();
+  });
+</script>
+
+
+
+    <footer>
+    <div class="container">
+      <div class="row-fluid">
+          <div class="span6">
+            <nav>
+              <ul class="unstyled">
+                <li>
+                  <a href="index.html">Accueil</a>
+                </li>
+
+                <li>
+                  <a href="about.html">À propos</a>
+                </li>
+
+                <li>
+                  <a href="contact.html">Contact</a>
+                </li>
+
+                <li>
+                  <a href="venue.html">Lieu</a>
+                </li>
+
+                <li>
+                  <a href="schedule.html">Horaire</a>
+                </li>
+
+                <li>
+                  <a href="speakers.html">Présenter</a>
+                </li>
+
+                <li>
+                  <a href="learn.html">Apprendre</a>
+                </li>
+
+                <li>
+                  <a href="sponsors.html">Commanditer</a>
+                </li>
+
+                <li>
+                  <a href="index.html" class="locale-toggle">
+                    <i class="icon-canada nav-icon"></i>
+                    English
+                  </a>
+                </li>
+              </ul>
+            </nav>
+            <p>
+              © PyCon Canada 2012
+              <br>
+              <a href="http://www.flickr.com/photos/camstatic/5535319505">Photo par camstatic</a>
+            </p>
+          </div>
+
+          <div class="span6">
+            <div class="fake-head">Rester informé</div>
+            <ul class="unstyled contact-list">
+              <li><span>Twitter</span> <a href="http://twitter.com/pyconca">@pyconca</a></li>
+              <li><span>IRC</span> <a href="irc://irc.freenode.net/#pyconca">#pyconca</a></li>
+              <li><span>Organisateur</span> <a href="mailto:organizers@pycon.ca">organizers@pycon.ca</a></li>
+              <li><span>Liste</span> <a href="mailto:pyconca@googlegroups.com">pyconca@googlegroups.com</a></li>
+              <li><span>GitHub</span> <a href="http://github.com/pyconca">github.com/pyconca</a></li>
+              <li><span>Volontaire</span> <a href="volunteer.html">pycon.ca/volunteer</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35491606-1']);
+      _gaq.push(['_setDomainName', 'pycon.ca']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</body>
+</html>

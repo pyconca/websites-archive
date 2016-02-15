@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "gevent-socketio is the cross-framework python implementation of the Socket.IO protocol, based on Gevent's cooperative concurrency model. Alexandre Bourget is the maintainer of the project.\r\n\r\nIn this talk, we're going to have a live demo of its capabilities building Google Analytics in 45 minutes, with some AngularJS on the front-end, and other cool integrations.\r\n\r\nBlack chocolate will await you.", 
+      "bio": "TBD", 
+      "conf_key": 54, 
+      "conf_url": "http://2012.pycon.ca/talk/54", 
+      "description": "gevent-socketio is the cross-framework python implementation of the Socket.IO protocol, based on Gevent's cooperative concurrency model. Alexandre Bourget is the maintainer of the project.\r\n\r\nIn this talk, we're going to have a live demo of its capabilities building Google Analytics in 45 minutes, with some AngularJS on the front-end, and other cool integrations.\r\n\r\nBlack chocolate will await you.", 
+      "duration": 45, 
+      "end": "2012-11-11T16:30:00-05:00", 
+      "id": 54, 
+      "level": "novice", 
+      "name": "Gevent-socketio, cross-framework real-time web live demo", 
+      "owner_id": 85, 
+      "room": "Lower hall", 
+      "schedule_code": "A29", 
+      "schedule_slot_id": 56, 
+      "speaker_first_name": "Alexandre", 
+      "speaker_last_name": "Bourget", 
+      "start": "2012-11-11T15:45:00-05:00", 
+      "title": "Gevent-socketio, cross-framework real-time web live demo", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

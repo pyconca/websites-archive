@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "The future is parallel. In this rapidly evolving parallel world, the scoop is that parallel programming can be much simpler, transparent and elegant. Introducing SCOOP, a new distributed task package allowing easy concurrent parallel programming on various environments. We propose a new way of handling distributed computing based on simplicity, beauty and the Future (see PEP-3148).", 
+      "bio": "", 
+      "conf_key": 53, 
+      "conf_url": "http://2012.pycon.ca/talk/53", 
+      "description": "The future is parallel. In this rapidly evolving parallel world, the scoop is that parallel programming can be much simpler, transparent and elegant. Introducing SCOOP, a new distributed task package allowing easy concurrent parallel programming on various environments. We propose a new way of handling distributed computing based on simplicity, beauty and the Future (see PEP-3148).", 
+      "duration": 20, 
+      "end": "2012-11-10T16:40:00-05:00", 
+      "id": 53, 
+      "level": "novice", 
+      "name": "Once you Scoop, no need to fork", 
+      "owner_id": 84, 
+      "room": "Lower hall", 
+      "schedule_code": "A14", 
+      "schedule_slot_id": 22, 
+      "speaker_first_name": "Yannick", 
+      "speaker_last_name": "Hold", 
+      "start": "2012-11-10T16:20:00-05:00", 
+      "title": "Once you Scoop, no need to fork", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

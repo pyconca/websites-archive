@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Why do some projects fail and some succeed? Is it about technology and quality of developers? \r\nI will be advocating that the success or failure of a given technology project will be dependent on factors frequently outside of control of development team.", 
+      "bio": "", 
+      "conf_key": 30, 
+      "conf_url": "http://2012.pycon.ca/talk/30", 
+      "description": "Why do some projects fail and some succeed? Is it about technology and quality of developers? \r\nI will be advocating that the success or failure of a given technology project will be dependent on factors frequently outside of control of development team.", 
+      "duration": 5, 
+      "end": "2012-11-11T15:57:00-05:00", 
+      "id": 30, 
+      "level": "experienced", 
+      "name": "Success Rate of Technology Projects", 
+      "owner_id": 59, 
+      "room": "Main hall", 
+      "schedule_code": "L8", 
+      "schedule_slot_id": 51, 
+      "speaker_first_name": "Dimitri", 
+      "speaker_last_name": "Gnidash", 
+      "start": "2012-11-11T15:52:00-05:00", 
+      "title": "Success Rate of Technology Projects", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

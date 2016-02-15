@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Pl/Python is a stored function language for PostgreSQL that allows you to write database stored functions in python.", 
+      "bio": "", 
+      "conf_key": 67, 
+      "conf_url": "http://2012.pycon.ca/talk/67", 
+      "description": "Pl/Python is a stored function language for PostgreSQL that allows you to write database stored functions in python.", 
+      "duration": 20, 
+      "end": "2012-11-11T10:30:00-05:00", 
+      "id": 67, 
+      "level": "novice", 
+      "name": "Python in your database", 
+      "owner_id": 91, 
+      "room": "Lower hall", 
+      "schedule_code": "A17", 
+      "schedule_slot_id": 33, 
+      "speaker_first_name": "Steve", 
+      "speaker_last_name": "Singer", 
+      "start": "2012-11-11T10:10:00-05:00", 
+      "title": "Python in your database", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

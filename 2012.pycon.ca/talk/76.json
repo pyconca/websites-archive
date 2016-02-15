@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Plone is one of the oldest open source python communities still working today. Despite a decade of trials and tribulations, the community is stronger than ever thanks to a unique and persisted python subculture. 10 lessons over 10 years on building a great community.", 
+      "bio": "TBD", 
+      "conf_key": 76, 
+      "conf_url": "http://2012.pycon.ca/talk/76", 
+      "description": "Plone is one of the oldest open source python communities still working today. Despite a decade of trials and tribulations, the community is stronger than ever thanks to a unique and persisted python subculture. 10 lessons over 10 years on building a great community.", 
+      "duration": 20, 
+      "end": "2012-11-10T16:40:00-05:00", 
+      "id": 76, 
+      "level": "novice", 
+      "name": "I Wish I Knew How to Quit You: Secrets to sustainable Python communities", 
+      "owner_id": 112, 
+      "room": "Main hall", 
+      "schedule_code": "A12", 
+      "schedule_slot_id": 21, 
+      "speaker_first_name": "Elizabeth", 
+      "speaker_last_name": "Leddy", 
+      "start": "2012-11-10T16:20:00-05:00", 
+      "title": "I Wish I Knew How to Quit You: Secrets to sustainable Python communities", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

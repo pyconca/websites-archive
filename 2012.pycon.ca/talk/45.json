@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Advice on how to design and implement networking code for use in automation: learn how sockets work, plan for and handle errors, and design effective protocols.", 
+      "bio": "I'm a member of Mozilla's Automation & Tools team, working on a wide variety of projects mainly in Python. Before Mozilla I worked for a small telecom company implementing an automated-test framework and various developer tools. I've been working more-or-less full-time in Python for about 5 years.", 
+      "conf_key": 45, 
+      "conf_url": "http://2012.pycon.ca/talk/45", 
+      "description": "Advice on how to design and implement networking code for use in automation: learn how sockets work, plan for and handle errors, and design effective protocols.", 
+      "duration": 20, 
+      "end": "2012-11-10T12:05:00-05:00", 
+      "id": 45, 
+      "level": "novice", 
+      "name": "Network programming for automation developers", 
+      "owner_id": 78, 
+      "room": "Lower hall", 
+      "schedule_code": "A4", 
+      "schedule_slot_id": 8, 
+      "speaker_first_name": "Mark", 
+      "speaker_last_name": "C\u00f4t\u00e9", 
+      "start": "2012-11-10T11:45:00-05:00", 
+      "title": "Network programming for automation developers", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

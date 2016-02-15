@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "WebDriver is actually not that complicated. No, really! If you know about Page Objects, synchronization and the JS Executor you can solve just about any problem. 20 minutes is not a lot of time, but we'll cover all three of those things. Honest!", 
+      "bio": "", 
+      "conf_key": 36, 
+      "conf_url": "http://2012.pycon.ca/talk/36", 
+      "description": "WebDriver is actually not that complicated. No, really! If you know about Page Objects, synchronization and the JS Executor you can solve just about any problem. 20 minutes is not a lot of time, but we'll cover all three of those things. Honest!", 
+      "duration": 20, 
+      "end": "2012-11-10T11:40:00-05:00", 
+      "id": 36, 
+      "level": "experienced", 
+      "name": "A really, really, really, fast tour of WebDriver", 
+      "owner_id": 70, 
+      "room": "Lower hall", 
+      "schedule_code": "A3", 
+      "schedule_slot_id": 7, 
+      "speaker_first_name": "adam", 
+      "speaker_last_name": "goucher", 
+      "start": "2012-11-10T11:20:00-05:00", 
+      "title": "A really, really, really, fast tour of WebDriver", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

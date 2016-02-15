@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "This lightning talk will introduce SendGrid and its public Python library, and show several examples of sending simple transactional messages using our APIs. It will also introduce you to other available APIs we have available for retrieving/parsing stats, managing your profile, retrieving lists of delivery failures, and more.", 
+      "bio": "TBD", 
+      "conf_key": 56, 
+      "conf_url": "http://2012.pycon.ca/talk/56", 
+      "description": "This lightning talk will introduce SendGrid and its public Python library, and show several examples of sending simple transactional messages using our APIs. It will also introduce you to other available APIs we have available for retrieving/parsing stats, managing your profile, retrieving lists of delivery failures, and more.", 
+      "duration": 5, 
+      "end": "2012-11-10T17:20:00-05:00", 
+      "id": 56, 
+      "level": "novice", 
+      "name": "Using SendGrid Email APIs to Bring Your Eh? Game", 
+      "owner_id": 76, 
+      "room": "Main hall", 
+      "schedule_code": "L4", 
+      "schedule_slot_id": 26, 
+      "speaker_first_name": "Ian", 
+      "speaker_last_name": "Douglas", 
+      "start": "2012-11-10T17:15:00-05:00", 
+      "title": "Using SendGrid Email APIs to Bring Your Eh? Game", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Persona is a decentralized, cross-browser login system that eliminates site passwords. Learn about its design with a focus on adding it to Python-based webapps, drawing from Mozilla's own experience.", 
+      "bio": "Dan Callahan is a developer on the Persona team at Mozilla. He works on Persona's APIs and developer outreach. Dan blogs at http://dancallahan.info and is @callahad on Twitter.", 
+      "conf_key": 34, 
+      "conf_url": "http://2012.pycon.ca/talk/34", 
+      "description": "Persona is a decentralized, cross-browser login system that eliminates site passwords. Learn about its design with a focus on adding it to Python-based webapps, drawing from Mozilla's own experience.", 
+      "duration": 45, 
+      "end": "2012-11-11T11:55:00-05:00", 
+      "id": 34, 
+      "level": "experienced", 
+      "name": "Beyond Passwords: Secure Authentication with Mozilla Persona", 
+      "owner_id": 68, 
+      "room": "Main hall", 
+      "schedule_code": "B7", 
+      "schedule_slot_id": 35, 
+      "speaker_first_name": "Dan", 
+      "speaker_last_name": "Callahan", 
+      "start": "2012-11-11T11:10:00-05:00", 
+      "title": "Beyond Passwords: Secure Authentication with Mozilla Persona", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

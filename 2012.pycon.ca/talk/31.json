@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Use IPython, matplotlib, and Pandas to slice, dice, and visualise your application's behaviour through its logs.\r\n", 
+      "bio": "Defect Poacher, Futurist, and Musician. \u201cJ\u00e4\u00e4\u00e4\u00e4rel\u201d is an awesome word. I knit continental.", 
+      "conf_key": 31, 
+      "conf_url": "http://2012.pycon.ca/talk/31", 
+      "description": "Use IPython, matplotlib, and Pandas to slice, dice, and visualise your application's behaviour through its logs.\r\n", 
+      "duration": 20, 
+      "end": "2012-11-11T11:30:00-05:00", 
+      "id": 31, 
+      "level": "novice", 
+      "name": "Server Log Analysis with Pandas", 
+      "owner_id": 60, 
+      "room": "Lower hall", 
+      "schedule_code": "A19", 
+      "schedule_slot_id": 36, 
+      "speaker_first_name": "Taavi", 
+      "speaker_last_name": "Burns", 
+      "start": "2012-11-11T11:10:00-05:00", 
+      "title": "Server Log Analysis with Pandas", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Python Packaging has had a more than less than ideal evolution. This talk aims to clarify this evolution and where packaging is headed in the future. ", 
+      "bio": "", 
+      "conf_key": 44, 
+      "conf_url": "http://2012.pycon.ca/talk/44", 
+      "description": "Python Packaging has had a more than less than ideal evolution. This talk aims to clarify this evolution and where packaging is headed in the future. ", 
+      "duration": 20, 
+      "end": "2012-11-10T17:10:00-05:00", 
+      "id": 44, 
+      "level": "novice", 
+      "name": "Twisted History of Python Packaging", 
+      "owner_id": 53, 
+      "room": "Lower hall", 
+      "schedule_code": "A15", 
+      "schedule_slot_id": 29, 
+      "speaker_first_name": "Mahdi", 
+      "speaker_last_name": "Yusuf", 
+      "start": "2012-11-10T16:50:00-05:00", 
+      "title": "Twisted History of Python Packaging", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Programmers generally spend their time heads-down crafting complex technical solutions, however advocating and communicating in the wider business context is often challenging. This talk uses a visual approach to describe how business managers think, with the goal of increasing your personal communication effectiveness.", 
+      "bio": "TBD", 
+      "conf_key": 66, 
+      "conf_url": "http://2012.pycon.ca/talk/66", 
+      "description": "Programmers generally spend their time heads-down crafting complex technical solutions, however advocating and communicating in the wider business context is often challenging. This talk uses a visual approach to describe how business managers think, with the goal of increasing your personal communication effectiveness.", 
+      "duration": 5, 
+      "end": "2012-11-10T16:55:00-05:00", 
+      "id": 66, 
+      "level": "novice", 
+      "name": "from business import logic", 
+      "owner_id": 90, 
+      "room": "Main hall", 
+      "schedule_code": "L1", 
+      "schedule_slot_id": 23, 
+      "speaker_first_name": "Bogdan", 
+      "speaker_last_name": "Chmielewski", 
+      "start": "2012-11-10T16:50:00-05:00", 
+      "title": "from business import logic", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

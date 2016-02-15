@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "This talk covers using Python to initiate change on the infrastructure side; we'll discuss on great tools like Django, libCloud, and Celery.  We will focus on node creation and destruction within multiple clouds, as well as the frameworks used to achieve this.", 
+      "bio": "TBD", 
+      "conf_key": 18, 
+      "conf_url": "http://2012.pycon.ca/talk/18", 
+      "description": "This talk covers using Python to initiate change on the infrastructure side; we'll discuss on great tools like Django, libCloud, and Celery.  We will focus on node creation and destruction within multiple clouds, as well as the frameworks used to achieve this.", 
+      "duration": 20, 
+      "end": "2012-11-11T15:10:00-05:00", 
+      "id": 18, 
+      "level": "novice", 
+      "name": "Programmatically Managing Python Workloads Across Multiple Clouds", 
+      "owner_id": 49, 
+      "room": "Lower hall", 
+      "schedule_code": "A27", 
+      "schedule_slot_id": 47, 
+      "speaker_first_name": "Chayim", 
+      "speaker_last_name": "Kirshen", 
+      "start": "2012-11-11T14:50:00-05:00", 
+      "title": "Programmatically Managing Python Workloads Across Multiple Clouds", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

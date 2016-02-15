@@ -2,5 +2,7 @@
 
 ## How to download a website
 
-  wget --no-check-certificate --mirror -p --html-extension --convert-links -e
+```bash
+wget --no-check-certificate --mirror -p --html-extension --convert-links -e
 robots=off -P . $URL
+```

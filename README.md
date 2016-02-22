@@ -12,3 +12,7 @@ robots=off -P . $URL
 ```bash
 nginx -c nginx.conf -p `pwd`
 ```
+
+## TODOs
+
+* [ ] 2012.pycon.ca is only showing the French version of the website.

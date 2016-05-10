@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Stack.io[1] is an open-source tool to quickly build real-time web apps. By directly linking clients to back-end services via WebSockets, Stack.io helps decompose complex code into a set of simple components in Python or Node.js. It augments standard RPC with bi-directional streaming, and provides a layer of auth and service discovery on top.\r\n\r\n[1]: https://github.com/dotcloud/stack.io", 
+      "bio": "", 
+      "conf_key": 58, 
+      "conf_url": "http://2012.pycon.ca/talk/58", 
+      "description": "Stack.io[1] is an open-source tool to quickly build real-time web apps. By directly linking clients to back-end services via WebSockets, Stack.io helps decompose complex code into a set of simple components in Python or Node.js. It augments standard RPC with bi-directional streaming, and provides a layer of auth and service discovery on top.\r\n\r\n[1]: https://github.com/dotcloud/stack.io", 
+      "duration": 20, 
+      "end": "2012-11-11T14:10:00-05:00", 
+      "id": 58, 
+      "level": "experienced", 
+      "name": "Distributed, Real-time Web Apps with Stack.io", 
+      "owner_id": 38, 
+      "room": "Lower hall", 
+      "schedule_code": "A23", 
+      "schedule_slot_id": 44, 
+      "speaker_first_name": "Gabriel", 
+      "speaker_last_name": "Grant", 
+      "start": "2012-11-11T13:50:00-05:00", 
+      "title": "Distributed, Real-time Web Apps with Stack.io", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Lessons learned and inspiration from developing Django applications\r\nquickly in isolated locations via Wilderness Labs and other zero\r\nbudget projects.", 
+      "bio": "", 
+      "conf_key": 22, 
+      "conf_url": "http://2012.pycon.ca/talk/22", 
+      "description": "Lessons learned and inspiration from developing Django applications\r\nquickly in isolated locations via Wilderness Labs and other zero\r\nbudget projects.", 
+      "duration": 5, 
+      "end": "2012-11-11T16:15:00-05:00", 
+      "id": 22, 
+      "level": "novice", 
+      "name": "Wilderness Labs", 
+      "owner_id": 54, 
+      "room": "Main hall", 
+      "schedule_code": "L10", 
+      "schedule_slot_id": 53, 
+      "speaker_first_name": "Albert", 
+      "speaker_last_name": "O'Connor", 
+      "start": "2012-11-11T16:10:00-05:00", 
+      "title": "Wilderness Labs", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

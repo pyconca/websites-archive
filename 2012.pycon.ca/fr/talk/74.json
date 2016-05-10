@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "A detailed walkthrough of SQLAlchemy's Session, describing the rationale for its existence, its driving philosophies, and finally a walkthrough of Session lifecycle through the use of an animated diagram. We'll cover how the relational database refers to database rows within a transaction, and how the Session has over the years developed a tight, proxied integration with this lifecycle.  ", 
+      "bio": "Michael Bayer is a software developer in New York City, best known as the creator of the SQLAlchemy Database Toolkit for Python as well as Mako Templates for Python. His initial open source offering, the Myghty template engine, provided the early underpinnings of the Pylons web framework, which along with its current successor Pyramid remains the 'spiritual' home of the SQLAlchemy and Mako products.", 
+      "conf_key": 74, 
+      "conf_url": "http://2012.pycon.ca/talk/74", 
+      "description": "A detailed walkthrough of SQLAlchemy's Session, describing the rationale for its existence, its driving philosophies, and finally a walkthrough of Session lifecycle through the use of an animated diagram. We'll cover how the relational database refers to database rows within a transaction, and how the Session has over the years developed a tight, proxied integration with this lifecycle.  ", 
+      "duration": 45, 
+      "end": "2012-11-10T11:10:00-05:00", 
+      "id": 74, 
+      "level": "experienced", 
+      "name": "The SQLAlchemy Session - In Depth ", 
+      "owner_id": 110, 
+      "room": "Main hall", 
+      "schedule_code": "B1", 
+      "schedule_slot_id": 2, 
+      "speaker_first_name": "Mike", 
+      "speaker_last_name": "Bayer", 
+      "start": "2012-11-10T10:25:00-05:00", 
+      "title": "The SQLAlchemy Session - In Depth ", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

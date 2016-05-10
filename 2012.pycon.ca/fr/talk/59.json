@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "The problem of how to store and access data in real time is one with many different variations and flavours that applications today are trying to solve. One version of this problem is storing data in a way that optimizes for reading data, while sacrificing performance from writing data. One piece of software that Chango uses to solve this problem is Kyotocabinet. This is a memory-mapped, key ...", 
+      "bio": "TBD", 
+      "conf_key": 59, 
+      "conf_url": "http://2012.pycon.ca/talk/59", 
+      "description": "The problem of how to store and access data in real time is one with many different variations and flavours that applications today are trying to solve. One version of this problem is storing data in a way that optimizes for reading data, while sacrificing performance from writing data. One piece of software that Chango uses to solve this problem is Kyotocabinet. This is a memory-mapped, key ...", 
+      "duration": 5, 
+      "end": "2012-11-10T17:27:00-05:00", 
+      "id": 59, 
+      "level": "novice", 
+      "name": "Python and Kyotocabinet: Memory Mapped Storage", 
+      "owner_id": 87, 
+      "room": "Main hall", 
+      "schedule_code": "L5", 
+      "schedule_slot_id": 27, 
+      "speaker_first_name": "Evan", 
+      "speaker_last_name": "Hicks", 
+      "start": "2012-11-10T17:22:00-05:00", 
+      "title": "Python and Kyotocabinet: Memory Mapped Storage", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

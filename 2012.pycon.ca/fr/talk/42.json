@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Ember is a JS framework based on established conventions that allows writing complex applications with a small amount of code. Ember-data is the component that connects this framework with a REST API. Unfortunately, the conventions followed by its community are not compatible with Tastypie, one of the most widely used Django libraries. This adapter makes all these technologies work together.", 
+      "bio": "", 
+      "conf_key": 42, 
+      "conf_url": "http://2012.pycon.ca/talk/42", 
+      "description": "Ember is a JS framework based on established conventions that allows writing complex applications with a small amount of code. Ember-data is the component that connects this framework with a REST API. Unfortunately, the conventions followed by its community are not compatible with Tastypie, one of the most widely used Django libraries. This adapter makes all these technologies work together.", 
+      "duration": 20, 
+      "end": "2012-11-11T13:40:00-05:00", 
+      "id": 42, 
+      "level": "novice", 
+      "name": "An Ember.js adapter for Django", 
+      "owner_id": 19, 
+      "room": "Lower hall", 
+      "schedule_code": "A22", 
+      "schedule_slot_id": 42, 
+      "speaker_first_name": "Diego", 
+      "speaker_last_name": "Mu\u00f1oz Escalante", 
+      "start": "2012-11-11T13:20:00-05:00", 
+      "title": "An Ember.js adapter for Django", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Starting with the theory behind eventual consistency we'll dive into a practical toolkit, knockblock, for programming these types of systems.", 
+      "bio": "", 
+      "conf_key": 23, 
+      "conf_url": "http://2012.pycon.ca/talk/23", 
+      "description": "Starting with the theory behind eventual consistency we'll dive into a practical toolkit, knockblock, for programming these types of systems.", 
+      "duration": 20, 
+      "end": "2012-11-10T16:15:00-05:00", 
+      "id": 23, 
+      "level": "experienced", 
+      "name": "Distributed Programming in Python: A Model for Strong, Eventual Consistency", 
+      "owner_id": 48, 
+      "room": "Lower hall", 
+      "schedule_code": "A13", 
+      "schedule_slot_id": 20, 
+      "speaker_first_name": "James", 
+      "speaker_last_name": "King", 
+      "start": "2012-11-10T15:55:00-05:00", 
+      "title": "Distributed Programming in Python: A Model for Strong, Eventual Consistency", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

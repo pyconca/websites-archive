@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "In this talk, aimed at novice Python and Django developers, we'll have a look at getting started with testing your Django applications, how to properly write your first test case and then moving to automated testing with Travis CI.", 
+      "bio": "TBD", 
+      "conf_key": 3, 
+      "conf_url": "http://2012.pycon.ca/talk/3", 
+      "description": "In this talk, aimed at novice Python and Django developers, we'll have a look at getting started with testing your Django applications, how to properly write your first test case and then moving to automated testing with Travis CI.", 
+      "duration": 20, 
+      "end": "2012-11-11T15:35:00-05:00", 
+      "id": 3, 
+      "level": "novice", 
+      "name": "Testing Django with Travis CI", 
+      "owner_id": 21, 
+      "room": "Main hall", 
+      "schedule_code": "A26", 
+      "schedule_slot_id": 48, 
+      "speaker_first_name": "Adam", 
+      "speaker_last_name": "McKerlie", 
+      "start": "2012-11-11T15:15:00-05:00", 
+      "title": "Testing Django with Travis CI", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

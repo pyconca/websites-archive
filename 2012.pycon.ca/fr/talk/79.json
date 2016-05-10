@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Most pieces of modern software (web, desktop or otherwise) include that innocuous little text box with inviting word \"Search\" nearby. But behind it lies a torrid world of bad ideas, worse ideas & ideas no computer should be made to suffer. If you want to keep your good name & stay out of the hall of shame, this talk will give you a grounding on how to make the search in your software better.", 
+      "bio": "Pythonista since 2003, Djangonaut since 2006. Wrote and maintains several OSS projects like Haystack, Tastypie, pysolr, itty, littleworkers. Loves search, APIs, and hard problems. Curator of fine animated gifs.", 
+      "conf_key": 79, 
+      "conf_url": "http://2012.pycon.ca/talk/79", 
+      "description": "Most pieces of modern software (web, desktop or otherwise) include that innocuous little text box with inviting word \"Search\" nearby. But behind it lies a torrid world of bad ideas, worse ideas & ideas no computer should be made to suffer. If you want to keep your good name & stay out of the hall of shame, this talk will give you a grounding on how to make the search in your software better.", 
+      "duration": 45, 
+      "end": "2012-11-10T15:45:00-05:00", 
+      "id": 79, 
+      "level": "experienced", 
+      "name": "Avoiding The Search Hall Of Shame", 
+      "owner_id": 124, 
+      "room": "Main hall", 
+      "schedule_code": "B5", 
+      "schedule_slot_id": 16, 
+      "speaker_first_name": "Daniel", 
+      "speaker_last_name": "Lindsley", 
+      "start": "2012-11-10T15:00:00-05:00", 
+      "title": "Avoiding The Search Hall Of Shame", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

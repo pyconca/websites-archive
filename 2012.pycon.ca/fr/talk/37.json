@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "In January 2012, Amazon introduced DynamoDB, a NoSQL database service with seamless, linear scalability. How can we neatly integrate it in Python applications and address its shortcomings?", 
+      "bio": "TBD", 
+      "conf_key": 37, 
+      "conf_url": "http://2012.pycon.ca/talk/37", 
+      "description": "In January 2012, Amazon introduced DynamoDB, a NoSQL database service with seamless, linear scalability. How can we neatly integrate it in Python applications and address its shortcomings?", 
+      "duration": 20, 
+      "end": "2012-11-10T14:20:00-05:00", 
+      "id": 37, 
+      "level": "experienced", 
+      "name": "DynamoDB and DynamoDB-Mapper -- Building scalable Python applications with Amazon's NoSQL database", 
+      "owner_id": 71, 
+      "room": "Lower hall", 
+      "schedule_code": "A7", 
+      "schedule_slot_id": 14, 
+      "speaker_first_name": "Maxime", 
+      "speaker_last_name": "No\u00ebl", 
+      "start": "2012-11-10T14:00:00-05:00", 
+      "title": "DynamoDB and DynamoDB-Mapper -- Building scalable Python applications with Amazon's NoSQL database", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

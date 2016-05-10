@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Alex will be talking.", 
+      "bio": "Alex will be talking.", 
+      "conf_key": 84, 
+      "conf_url": "http://2012.pycon.ca/talk/84", 
+      "description": "Alex will be talking.", 
+      "duration": 5, 
+      "end": "2012-11-11T09:15:00-05:00", 
+      "id": 84, 
+      "level": "novice", 
+      "name": "Sponsor Message", 
+      "owner_id": 6, 
+      "room": "Main hall", 
+      "schedule_code": "X3", 
+      "schedule_slot_id": 61, 
+      "speaker_first_name": "Diana", 
+      "speaker_last_name": "Clarke", 
+      "start": "2012-11-11T09:10:00-05:00", 
+      "title": "Sponsor Message", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

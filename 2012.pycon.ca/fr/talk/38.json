@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Todd Whiteman, the lead developer of ActiveState's Komodo IDE, will show you the best practices for creating, writing, debugging and deploying Python applications when using Komodo IDE.", 
+      "bio": "", 
+      "conf_key": 38, 
+      "conf_url": "http://2012.pycon.ca/talk/38", 
+      "description": "Todd Whiteman, the lead developer of ActiveState's Komodo IDE, will show you the best practices for creating, writing, debugging and deploying Python applications when using Komodo IDE.", 
+      "duration": 5, 
+      "end": "2012-11-10T17:02:00-05:00", 
+      "id": 38, 
+      "level": "novice", 
+      "name": "Python development with Komodo IDE", 
+      "owner_id": 73, 
+      "room": "Main hall", 
+      "schedule_code": "L2", 
+      "schedule_slot_id": 24, 
+      "speaker_first_name": "Todd", 
+      "speaker_last_name": "Whiteman", 
+      "start": "2012-11-10T16:57:00-05:00", 
+      "title": "Python development with Komodo IDE", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

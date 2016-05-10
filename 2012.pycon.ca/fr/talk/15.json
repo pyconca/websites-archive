@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "Demonstration of some of the best Python console applications written\r\nusing Urwid:\r\n\r\n* bpython-urwid\r\n* videotop\r\n* alot\r\n* turses\r\n* hachoir-urwid\r\n* speedometer\r\n* pudb", 
+      "bio": "Ian Ward is the author of Urwid and a number of other open source Python projects.  See http://excess.org/ for more information.", 
+      "conf_key": 15, 
+      "conf_url": "http://2012.pycon.ca/talk/15", 
+      "description": "Demonstration of some of the best Python console applications written\r\nusing Urwid:\r\n\r\n* bpython-urwid\r\n* videotop\r\n* alot\r\n* turses\r\n* hachoir-urwid\r\n* speedometer\r\n* pudb", 
+      "duration": 20, 
+      "end": "2012-11-11T14:35:00-05:00", 
+      "id": 15, 
+      "level": "novice", 
+      "name": "Console Applications with Urwid", 
+      "owner_id": 47, 
+      "room": "Lower hall", 
+      "schedule_code": "A24", 
+      "schedule_slot_id": 45, 
+      "speaker_first_name": "Ian", 
+      "speaker_last_name": "Ward", 
+      "start": "2012-11-11T14:15:00-05:00", 
+      "title": "Console Applications with Urwid", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "The goal of this talk is to showcase how App Engine makes it exciting to prototype back-end services for larger projects. Creating such prototypes helps shape project requirements, develop datastores and improve testing coverage.   ", 
+      "bio": "", 
+      "conf_key": 47, 
+      "conf_url": "http://2012.pycon.ca/talk/47", 
+      "description": "The goal of this talk is to showcase how App Engine makes it exciting to prototype back-end services for larger projects. Creating such prototypes helps shape project requirements, develop datastores and improve testing coverage.   ", 
+      "duration": 20, 
+      "end": "2012-11-10T13:25:00-05:00", 
+      "id": 47, 
+      "level": "experienced", 
+      "name": "Supercharge web application prototypes with the App Engine Python SDK", 
+      "owner_id": 81, 
+      "room": "Lower hall", 
+      "schedule_code": "A5", 
+      "schedule_slot_id": 10, 
+      "speaker_first_name": "Vlad", 
+      "speaker_last_name": "Filippov", 
+      "start": "2012-11-10T13:05:00-05:00", 
+      "title": "Supercharge web application prototypes with the App Engine Python SDK", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

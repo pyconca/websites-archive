@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "In our search for a better Map/Reduce framework we found Disco, an Erlang/Python based Map/Reduce framework that's small, fast, elegant, understandable. We needed a way to tame the power of Disco and that's when we came up with the Inferno project which takes even more complexity out of Map/Reduce. With Inferno you concentrate about what you want from your data and not the underlying complexity.", 
+      "bio": "", 
+      "conf_key": 2, 
+      "conf_url": "http://2012.pycon.ca/talk/2", 
+      "description": "In our search for a better Map/Reduce framework we found Disco, an Erlang/Python based Map/Reduce framework that's small, fast, elegant, understandable. We needed a way to tame the power of Disco and that's when we came up with the Inferno project which takes even more complexity out of Map/Reduce. With Inferno you concentrate about what you want from your data and not the underlying complexity.", 
+      "duration": 20, 
+      "end": "2012-11-11T11:55:00-05:00", 
+      "id": 2, 
+      "level": "novice", 
+      "name": "Dancing with Big Data: Disco + Inferno", 
+      "owner_id": 24, 
+      "room": "Lower hall", 
+      "schedule_code": "A20", 
+      "schedule_slot_id": 38, 
+      "speaker_first_name": "Tim Spurway &", 
+      "speaker_last_name": " Mazdak Rezvani", 
+      "start": "2012-11-11T11:35:00-05:00", 
+      "title": "Dancing with Big Data: Disco + Inferno", 
+      "type": "talk", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "PyCon Canada 2012 - Saturday Morning Keynote", 
+      "bio": "Jessica is a veteran open source contributor and a maintainer for several open source projects, including OpenHatch and the Twisted event-driven networking engine; she wrote a chapter on Twisted for The Architecture of Open Source Applications Volume II and is working with O'Reilly on a new edition of Twisted Networking Essentials. Jessica is a Python Software Foundation board member and an organizer for the largest Python user group in the world.", 
+      "conf_key": 81, 
+      "conf_url": "http://2012.pycon.ca/talk/81", 
+      "description": "PyCon Canada 2012 - Saturday Morning Keynote", 
+      "duration": 45, 
+      "end": "2012-11-10T10:15:00-05:00", 
+      "id": 81, 
+      "level": "novice", 
+      "name": "Saturday Morning Keynote", 
+      "owner_id": 134, 
+      "room": "Main hall", 
+      "schedule_code": "K1", 
+      "schedule_slot_id": 1, 
+      "speaker_first_name": "Jessica", 
+      "speaker_last_name": "McKellar", 
+      "start": "2012-11-10T09:30:00-05:00", 
+      "title": "Saturday Morning Keynote", 
+      "type": "other", 
+      "video_release": true
+    }
+  }, 
+  "errors": []
+}

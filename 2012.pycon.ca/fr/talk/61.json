@@ -1,0 +1,27 @@
+{
+  "data": {
+    "talk": {
+      "abstract": "This tutorial will offer an introduction to numerical data processing and\r\nscientific computing using Python. The tutorial will revolve around NumPy,\r\nthe fundamental package for scientific computing with Python, and introduce\r\nusers to its use not only in implementing numerical algorithms but in\r\ninterfacing with legacy systems and C libraries.", 
+      "bio": "TBD", 
+      "conf_key": 61, 
+      "conf_url": "http://2012.pycon.ca/talk/61", 
+      "description": "This tutorial will offer an introduction to numerical data processing and\r\nscientific computing using Python. The tutorial will revolve around NumPy,\r\nthe fundamental package for scientific computing with Python, and introduce\r\nusers to its use not only in implementing numerical algorithms but in\r\ninterfacing with legacy systems and C libraries.", 
+      "duration": 180, 
+      "end": "2012-11-10T16:05:00-05:00", 
+      "id": 61, 
+      "level": "novice", 
+      "name": "Introduction to Numerical and Scientific Computing with Python", 
+      "owner_id": 11, 
+      "room": "Tutorial room", 
+      "schedule_code": "T2", 
+      "schedule_slot_id": 11, 
+      "speaker_first_name": "David", 
+      "speaker_last_name": "Warde-Farley", 
+      "start": "2012-11-10T13:05:00-05:00", 
+      "title": "Introduction to Numerical and Scientific Computing with Python", 
+      "type": "tutorial", 
+      "video_release": false
+    }
+  }, 
+  "errors": []
+}

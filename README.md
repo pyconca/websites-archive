@@ -29,4 +29,7 @@ nginx -c nginx.conf -p `pwd`
 
 ## TODOs
 
-* [ ] 2012.pycon.ca is only showing the French version of the website.
+* [x] 2012.pycon.ca is only showing the French version of the website.
+* [ ] Get NginX config to work properly for 2012
+* [ ] Get NginX config to work properly for 2013
+* [ ] Get NginX config to work properly for 2015

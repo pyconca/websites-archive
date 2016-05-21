@@ -30,6 +30,7 @@ nginx -c nginx.conf -p `pwd`
 ## TODOs
 
 * [x] 2012.pycon.ca is only showing the French version of the website.
-* [ ] Get NginX config to work properly for 2012
-* [ ] Get NginX config to work properly for 2013
-* [ ] Get NginX config to work properly for 2015
+* [x] Get NginX config to work properly for 2012
+* [x] Get NginX config to work properly for 2013
+* [x] Get NginX config to work properly for 2015
+* [ ] Make sure all the stylesheet URLs are pointed to HTTPS.

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:They're names\, not variables! with Stuart Williams
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:093-stuart-williams
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/093-stuart-williams/
+END:VEVENT
+END:VCALENDAR

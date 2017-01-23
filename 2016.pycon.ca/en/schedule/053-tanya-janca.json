@@ -1,0 +1,13 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Everyone knows that the earlier you fix a bug the cheaper and easier it is, this rings true for security bugs as well. This talk will argue that security needs to start in the development phase, and that the power to find most common security issues needs to be put into the developer's hands.</p>\n<p>This talk will include hands on demo of how to find security flaws, how they happen in the first place, and most importantly, how to fix them. If you've written a fast, beautiful application that meets all your requirements but it isn't secure, then it's not the best. This talk will enable you to write the best code possible, by making your code secure.</p>\n<h2>Tanya Janca Bio</h2>\n<p>Tanya Janca is an application security evangelist, a web application penetration tester, the Co-Leader of the Ottawa OWASP chapter, and has been developing software since the late 90\u2019s. She has worn many hats and done many things, including; Custom Apps, Ethical Hacking, COTS, Incident Response and Investigation, Enterprise Architecture, Project and People Management, as well as giving training and doing public speaking. She\u2019s also the front woman for a cyber-punk band named Zero Day Reapers.</p>", 
+  "end_time": "17:00:00", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "53", 
+  "rooms": "Tutorial", 
+  "rowspan": "2", 
+  "speakers": "Tanya Janca", 
+  "start_time": "16:00:00", 
+  "title": "Introducing security earlier into the SDLC - how to hack your own apps"
+}

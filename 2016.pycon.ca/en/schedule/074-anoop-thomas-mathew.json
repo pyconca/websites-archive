@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>Most of the time we hear buzzwords like Recurrent Neural Nets, LSTM etc. But don't know what is all that jargon and how or why these things work, This talk will give you a decent introduction to Neural Networks (No boring history lessons or the typical \"neurons in brain\" talk), and will give introduction for a hacker to get started with neural networks.</p>\n<h2>Anoop Thomas Mathew Bio</h2>\n<p>Anoop a.k.a ATM is the Co-Founder and CTO of Profoundis (<a href=\"https://www.vibeapp.co\">Vibe</a>), a successfully bootstrapped company, got <em>acquired by <a href=\"http://www.fullcontact.com\">FullContact</a></em>. Leading the development effort for the entire product handling millions of requests every month. Vibe internally uses machine learning for the product to work as intended. Now he works as the Head of Technology, India at <strong>fullcontact.com</strong>.</p>", 
+  "end_time": "15:15:00", 
+  "github": "atmb4u", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "anoop-thomas-mathew.jpg", 
+  "pk": "74", 
+  "rooms": "TRS 3-176", 
+  "speakers": "Anoop Thomas Mathew", 
+  "start_time": "14:40:00", 
+  "title": "Hacker's guide to Neural Networks", 
+  "twitter": "atmb4u", 
+  "youtube": "U3nNiFGTcKY"
+}

@@ -1,0 +1,14 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>The 30-year computing crisis rages on because it is too hard to do a good job! Here we present a new and improved DevOps paradigm, which makes it easy to build simple and reliable systems. This is a Software Silver Bullet!</p>\n<h2>Steve Jackson Bio</h2>\n<p>I am an Electrical Engineer and I have been programming since 1968. CEO of a private company for 30 years, developing and manufacturing embedded systems.</p>", 
+  "end_time": "14:05:00", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "steve-jackson.jpg", 
+  "pk": "85", 
+  "rooms": "TRS 3-176", 
+  "speakers": "Steve Jackson", 
+  "start_time": "13:55:00", 
+  "title": "Simple made easy", 
+  "youtube": "lgLrFPIg1VM"
+}

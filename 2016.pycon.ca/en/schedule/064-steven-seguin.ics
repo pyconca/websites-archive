@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Building the Real-time Web with Python and aiohttp with Steven Seg
+ uin
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTSTAMP;VALUE=DATE-TIME:20161112T165000Z
+UID:064-steven-seguin
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/064-steven-seguin/
+END:VEVENT
+END:VCALENDAR

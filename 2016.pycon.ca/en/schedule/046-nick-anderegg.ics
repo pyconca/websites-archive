@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Quantifying the visual structure of written language with Nick And
+ eregg
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T114000
+DTSTAMP;VALUE=DATE-TIME:20161113T161000Z
+UID:046-nick-anderegg
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/046-nick-anderegg/
+END:VEVENT
+END:VCALENDAR

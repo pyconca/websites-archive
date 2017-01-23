@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:When the abyss gazes back: staring down Python's surprising intern
+ als with David Wolever
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T163000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:026-david-wolever
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/026-david-wolever/
+END:VEVENT
+END:VCALENDAR

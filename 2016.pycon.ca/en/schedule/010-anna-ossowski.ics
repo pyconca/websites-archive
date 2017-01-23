@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Rub-a-dub rubber duck: don't be afraid to debug! with Anna Ossowsk
+ i
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTSTAMP;VALUE=DATE-TIME:20161112T165000Z
+UID:010-anna-ossowski
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/010-anna-ossowski/
+END:VEVENT
+END:VCALENDAR

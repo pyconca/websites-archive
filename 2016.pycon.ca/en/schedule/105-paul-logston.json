@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>PyVideo.org has undergone significant changes over the past year. It's changed\nteams, infrastructure, and looks. Come hear about the progress the PyVideo\nteam is making and the direction in which PyVideo is headed.</p>\n<h2>Paul Logston Bio</h2>\n<p>Paul Logston is a New York City based developer. He helps organize and run the\nNYC Python, Learn Python NYC, and PyGotham events that take place in NYC.\nHe works at 15Five and teaches at Columbia.</p>", 
+  "end_time": "13:45:00", 
+  "github": "logston", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "paul-logston.jpg", 
+  "pk": "105", 
+  "rooms": "TRS 1-067", 
+  "speakers": "Paul Logston", 
+  "start_time": "13:35:00", 
+  "title": "State of the PyVideo", 
+  "twitter": "PaulLogston", 
+  "youtube": "DefBuK4jXuM"
+}

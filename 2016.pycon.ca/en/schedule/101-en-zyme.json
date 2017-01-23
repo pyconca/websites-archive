@@ -1,0 +1,14 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Exponentiation is the gotcha of math operators. Be it square or square root, exp, log, tanh, or the complex roots of unity, ** has it's work cut out. Ints, floats, fractions, and zero don't play nice with **. Precision, accuracy, and performance aspects of Python can be revealed by following ** thru the interpreter down to the metal.  SciPy, SymPy, and Machine Learners care, shouldn't you?</p>\n<h2>en zyme Bio</h2>\n<p>en zyme has been a coder scientist for decades, traversing meteorology, telecom, biotech, and was into data before it was big.</p>\n<p>en zyme is the founder of Ad, Hock &amp; Nimble [ a data consultancy] and of 40th Parallel Python. en zyme can be reached at <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#110;&#46;&#122;&#121;&#109;&#101;&#64;&#52;&#48;&#116;&#104;&#112;&#97;&#114;&#97;&#108;&#108;&#101;&#108;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#99;&#111;&#109;\">&#101;&#110;&#46;&#122;&#121;&#109;&#101;&#64;&#52;&#48;&#116;&#104;&#112;&#97;&#114;&#97;&#108;&#108;&#101;&#108;&#112;&#121;&#116;&#104;&#111;&#110;&#46;&#99;&#111;&#109;</a> or <a href=\"&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#101;&#110;&#122;&#121;&#109;&#101;&#64;&#98;&#117;&#46;&#101;&#100;&#117;\">&#101;&#110;&#122;&#121;&#109;&#101;&#64;&#98;&#117;&#46;&#101;&#100;&#117;</a>.</p>", 
+  "end_time": "14:50:00", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "101", 
+  "rooms": "TRS 1-067", 
+  "speakers": "en zyme", 
+  "start_time": "14:20:00", 
+  "title": "How to make ** less expensive and more expressive", 
+  "twitter": "en_zyme", 
+  "youtube": "eYTfgbr7b0U"
+}

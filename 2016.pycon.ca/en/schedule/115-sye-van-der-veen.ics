@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Mutants and immutants: the missing types with Sye van der Veen
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T140500
+DTSTAMP;VALUE=DATE-TIME:20161113T185500Z
+UID:115-sye-van-der-veen
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/115-sye-van-der-veen/
+END:VEVENT
+END:VCALENDAR

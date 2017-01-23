@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:G.Tool: a Python-based DSL for managing information security gover
+ nance information with Ben Sapiro
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:042-ben-sapiro
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/042-ben-sapiro/
+END:VEVENT
+END:VCALENDAR

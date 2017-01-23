@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Hacker's guide to Neural Networks with Anoop Thomas Mathew
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T144000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151500
+DTSTAMP;VALUE=DATE-TIME:20161113T194000Z
+UID:074-anoop-thomas-mathew
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/074-anoop-thomas-mathew/
+END:VEVENT
+END:VCALENDAR

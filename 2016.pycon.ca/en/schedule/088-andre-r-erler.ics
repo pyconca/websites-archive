@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Managing large ensembles and batch execution with Python with Andr
+ e R. Erler
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T133500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T134500
+DTSTAMP;VALUE=DATE-TIME:20161112T183500Z
+UID:088-andre-r-erler
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/088-andre-r-erler/
+END:VEVENT
+END:VCALENDAR

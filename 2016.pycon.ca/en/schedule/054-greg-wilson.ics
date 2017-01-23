@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Not on the shelves: what nonexistent books\, tools\, and courses c
+ an tell us about ourselves with Greg Wilson
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T122000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:054-greg-wilson
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/054-greg-wilson/
+END:VEVENT
+END:VCALENDAR

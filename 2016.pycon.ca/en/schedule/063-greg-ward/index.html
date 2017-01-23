@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="Join your fellow Pythonistas for the fourth annual PyCon Canada, a weekend of talks, activities, fun and code!">
+
+        <title>Version control worst practices with Greg Ward | PyCon Canada 2016</title>
+
+        
+        <link rel="stylesheet" href="/static/app.css?5b23349d">
+        
+
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <link rel="canonical" href="https://2016.pycon.ca/en/schedule/063-greg-ward/">
+
+        <link rel="alternate" hreflang="en" href="https://2016.pycon.ca/en/schedule/063-greg-ward/">
+        <link rel="alternate" hreflang="fr" href="https://2016.pycon.ca/fr/schedule/063-greg-ward/">
+        <link rel="alternate" hreflang="x-default" href="https://2016.pycon.ca/en/schedule/063-greg-ward/">
+
+        <link rel="shortcut icon" href="/static/images/favicon.ico" />
+        <link rel="apple-touch-icon" href="/static/images/apple-touch-icon-precomposed.png">
+
+        
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@pyconca">
+<meta name="twitter:creator" content="@pyconca">
+<meta name="twitter:title" content="Version control worst practices with Greg Ward at PyCon Canada 2016">
+<meta name="twitter:description" content="Join your fellow Pythonistas for the fourth annual PyCon Canada, a weekend of talks, activities, fun and code!">
+<meta name="twitter:image" content="https://2016.pycon.ca/static/images/pycon-2015-mc-paul-by-shiroyuki-twitter-card.jpg">
+
+
+        
+<meta property="og:title" content="Version control worst practices with Greg Ward at PyCon Canada 2016">
+<meta property="og:description" content="Join your fellow Pythonistas for the fourth annual PyCon Canada, a weekend of talks, activities, fun and code!">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://2016.pycon.ca/en/schedule/063-greg-ward/">
+<meta property="og:image" content="https://2016.pycon.ca/static/images/pycon-2015-mc-paul-by-shiroyuki-facebook.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+
+        
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Event",
+    "name": "Version control worst practices at PyCon Canada 2016",
+    "description": "Join your fellow Pythonistas for the fourth annual PyCon Canada, a weekend of talks, activities, fun and code!",
+    "image": "https://2016.pycon.ca/static/images/pycon-2015-mc-paul-by-shiroyuki-facebook.jpg",
+    "url": "https://2016.pycon.ca/en/schedule/063-greg-ward/",
+    "startDate": "2016-11-12T15:00:00",
+    "endDate": "2016-11-12T15:30:00",
+    "location": {
+        "@type": "Place",
+        "name": "Ted Rogers School of Management",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "55 Dundas Street West",
+            "postalCode": "M5G 2C3",
+            "addressLocality": "Toronto",
+            "addressRegion": "Ontario",
+            "addressCountry": "Canada"
+        }
+    },
+    
+    "performer": {
+        "@type": "Person",
+        "name": "Greg Ward"
+    },
+    
+    "offers": {
+        "@type": "Offer",
+        "url": "https://www.eventbrite.com/e/pycon-canada-2016-tickets-27545680873"
+    }
+}
+</script>
+
+
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-64922826-3', 'auto');
+            ga('send', 'pageview');
+        </script>
+
+        <script>
+            window.twttr = (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                          t = window.twttr || {};
+                if (d.getElementById(id)) return t;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "https://platform.twitter.com/widgets.js";
+                fjs.parentNode.insertBefore(js, fjs);
+
+                t._e = [];
+                t.ready = function(f) {
+                    t._e.push(f);
+                };
+
+                return t;
+            }(document, "script", "twitter-wjs"));
+        </script>
+    </head>
+    <body class="">
+        
+    <div class="header">
+    <a href="/en/" class="header__logo">
+        <img src="/static/images/logo.svg" alt="PyCon Canada" class="header__image">
+    </a>
+    
+    <nav class="navigation header__navigation">
+        <a href="#" class="navigation__menu header__navigation-menu" id="js-navigation-button">MENU</a>
+        <div class="table">
+            <ul class="navigation__list header__navigation-list" id="js-navigation-menu">
+                <li class="navigation__item navigation__item--hide-small"><a class="navigation__link" href="http://www.eventbrite.com/e/pycon-canada-2016-tickets-27545680873?aff=web"><span class="button button--primary">Buy a ticket</span></a></li>
+                <li class="navigation__item"><a class="navigation__link" href="/en/">Home</a></li>
+                <li class="navigation__item"><a class="navigation__link " href="/en/about/">About</a></li>
+                <li class="navigation__item"><a class="navigation__link " href="/en/venue/">Venue</a></li>
+                <li class="navigation__item navigation__item--hide-small"><a class="navigation__link " href="/en/volunteer/">Volunteer</a></li>
+                <li class="navigation__item"><a class="navigation__link " href="/en/sponsors/">Sponsors</a></li>
+                <li class="navigation__item"><a class="navigation__link " href="/en/schedule/">Schedule</a></li>
+                <li class="navigation__item"><a class="navigation__link" href="/fr/schedule/063-greg-ward/" hreflang="fr">Fran&ccedil;ais</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+    
+    <div class="page page--talk">
+        <div class="page__header page__header--talk">
+            <div class="page__header-content">
+                
+<h1>Version control worst&nbsp;practices <em>with Greg&nbsp;Ward</em></h1>
+<p class="lead">Sat 15:00 | Rm. TRS 1-067</p>
+<p class="lead"><a href="https://www.youtube.com/watch?v=7ProkEKjtL4">Watch on YouTube</a></p>
+
+            </div>
+        </div>
+        
+        <div class="page__content page__content--talk">
+            
+<div class="page__section talk">
+    <div class="page__row">
+        
+        <div class="page__col-12 talk__video">
+            <div class="talk__video-wrapper">
+                <iframe class="talk__video-embed" allowfullscreen src="https://www.youtube.com/embed/7ProkEKjtL4" frameborder="0"></iframe>
+            </div>
+        </div>
+        
+
+        <div class="page__col-8 page__col--left">
+            
+            <p>Nowadays, everybody uses version control. But until you learn to <em>misuse</em> your version control system, you're missing out on ways to minimize developer productivity and pessimize your workflow. I'll show you 12 time-tested worst practices that will set you down the wrong path from Day One.</p>
+<h2>Greg Ward Bio</h2>
+<p>I've been using and creating open source software since before the term "open source" was coined, and involved with the Python community since the late nineties. I've written or contributed to several modules in the standard library. And I've been working as a programmer for over 20 years. I don't think I've made every mistake in the book, but I've made a lot of them, and I hope to share some of the things I have learned the hard way and save you the trouble.</p>
+        </div>
+
+        
+        <div class="page__col-4 page__col--right">
+            
+            <img src="/static/images/speaker_photos/greg-ward.jpg" class="talk__image">
+            
+
+            
+            <p>
+                
+                <a href="https://twitter.com/gergdotca" title="Greg Ward Twitter Profile">Twitter</a>
+                
+                
+                <a href="https://github.com/gward" title="Greg Ward GitHub Profile">GitHub</a>
+                
+            </p>
+            
+        </div>
+        
+    </div>
+</div>
+
+<div class="page__section">
+    <p>
+        <a href="/en/schedule/063-greg-ward.ics" title="iCalender File"><img data-file-extension="ics" data-src="/static/images/icon-file.svg" class="iconic iconic-md" alt="iCalendar File" /></a>
+
+        <a href="/en/schedule/063-greg-ward.json" title="JSON File"><img data-file-extension="json" data-src="/static/images/icon-file.svg" class="iconic iconic-md" alt="JSON File" /></a>
+    </p>
+</div>
+
+        </div>
+    </div>
+    
+    <div class="footer">
+    <div class="footer__container">
+        <div class="footer__links">
+            <ul class="footer__list">
+                <li class="footer__item"><a class="footer__link" href="/en/">Home</a></li>
+
+                <li class="footer__item"><a class="footer__link " href="/en/about/">About</a></li>
+
+                <li class="footer__item"><a class="footer__link " href="/en/venue/">Venue</a></li>
+
+                <li class="footer__item"><a class="footer__link " href="/en/sponsors/">Sponsors</a></li>
+
+                
+            </ul>
+        </div>
+
+        <div class="footer__buttons">
+            <a href="/en/schedule/" class="footer__button button button--primary">View the schedule</a>
+
+            <a href="http://eepurl.com/bs9mG9" class="footer__button button button--secondary">Join our mailing list</a>
+        </div>
+
+        <div class="footer__links">
+            <ul class="footer__list">
+                <li class="footer__item footer__item--icons footer__link--icon-twitter">
+                    <a href="https://twitter.com/pyconca" class="footer__link footer__link--icon">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="social-twitter" width="32" height="32" class="iconic iconic-social iconic-size-md iconic-social-twitter" viewBox="0 0 32 32">
+  <g data-width="32" data-height="26" class="iconic-container iconic-social-twitter" transform="scale(1 1 ) translate(0 3 ) ">
+    <path d="M10.064 26c-3.708 0-7.159-1.087-10.064-2.949.514.061 1.036.092 1.566.092 3.076 0 5.907-1.049 8.153-2.81-2.873-.053-5.297-1.951-6.133-4.558.401.077.812.118 1.235.118.599 0 1.179-.08 1.73-.23-3.003-.603-5.266-3.256-5.266-6.436 0-.028 0-.055.001-.083.885.492 1.898.787 2.974.821-1.762-1.177-2.921-3.186-2.921-5.463 0-1.203.324-2.33.889-3.3 3.238 3.971 8.076 6.584 13.532 6.858-.112-.48-.17-.981-.17-1.496 0-3.625 2.94-6.564 6.565-6.564 1.888 0 3.595.797 4.792 2.073 1.495-.294 2.901-.841 4.169-1.593-.49 1.533-1.531 2.819-2.887 3.631 1.328-.159 2.593-.511 3.771-1.034-.88 1.316-1.993 2.472-3.276 3.398.013.281.019.565.019.849 0 8.674-6.603 18.675-18.679 18.675"
+    class="iconic-property-fill"></path>
+  </g>
+</svg>
+                    </a>
+
+                    <a href="https://www.youtube.com/c/pyconca" class="footer__link footer__link--icon footer__link--icon-youtube">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="social-youtube" width="32" height="32" class="iconic iconic-social iconic-size-md iconic-social-youtube" viewBox="0 0 32 32">
+  <g data-width="32" data-height="14" class="iconic-container iconic-social-youtube" transform="scale(1 1 ) translate(0 9 ) ">
+    <path d="M11.944 10.806h-1.214v-.703c-.46.527-.85.794-1.275.794-.373 0-.632-.176-.762-.494-.079-.193-.135-.495-.135-.939v-5.109h1.213v4.79c0 .271 0 .383 0 .447.028.179.104.245.259.245.232 0 .443-.202.699-.564v-4.918h1.214v6.451z" class="iconic-social-youtube-you iconic-social-youtube-you-u iconic-property-fill"></path>
+    <path d="M7.664 6.463c0-.689-.139-1.207-.383-1.533-.323-.441-.83-.622-1.341-.622-.578 0-1.018.181-1.341.622-.249.326-.382.849-.382 1.538l-.001 2.294c0 .685.119 1.159.367 1.482.323.44.846.673 1.357.673s1.044-.233 1.367-.673c.245-.323.358-.796.358-1.482v-2.299zm-1.213 2.427c.064.639-.134.956-.511.956s-.575-.317-.511-.956v-2.555c-.064-.639.134-.938.511-.938s.575.299.512.938l-.001 2.555z"
+    class="iconic-social-youtube-you iconic-social-youtube-you-o iconic-property-fill"></path>
+    <path d="M2.874 7.294v3.513h-1.277v-3.513s-1.324-4.307-1.597-5.109h1.341l.896 3.364.892-3.364h1.341l-1.597 5.109z" class="iconic-social-youtube-you iconic-social-youtube-you-y iconic-property-fill"></path>
+    <path d="M24.909 6.208v2.746c0 .639-.151.883-.484.883-.19 0-.41-.098-.603-.291l.001-3.873c.193-.191.411-.291.602-.291.334 0 .484.188.484.826zm4.279-.059c0-.59-.153-.768-.536-.768-.386 0-.55.163-.55.76v.706l1.086-.001v-.697zm2.812-.196v1.44c0 1.536-.191 3.073-.191 3.073s-.186 1.308-.758 1.885c-.725.756-1.538.76-1.911.804-2.669.192-6.676.198-6.676.198s-4.959-.045-6.484-.191c-.424-.079-1.378-.055-2.103-.811-.572-.576-.758-1.885-.758-1.885s-.191-1.536-.191-3.073v-1.441c0-1.536.191-3.073.191-3.073s.186-1.308.758-1.885c.725-.756 1.538-.76 1.911-.804 2.669-.192 6.672-.192 6.672-.192h.008s4.003 0 6.672.192c.373.044 1.186.048 1.911.804.572.576.758 1.885.758 1.885s.19 1.536.19 3.073zm-14.883-2.492h1.405v-1.213l-4.024.001v1.212h1.341v7.345h1.277v-7.345zm4.599.958h-1.214v4.854c-.257.362-.467.564-.699.564-.154 0-.23-.066-.259-.245 0-.064 0-.176 0-.447v-4.726h-1.214v5.046c0 .443.056.745.135.939.13.318.389.494.762.494.425 0 .815-.266 1.275-.794v.703h1.214v-6.387zm4.407 1.916c0-.605-.077-1.018-.155-1.275-.154-.478-.464-.744-.924-.744-.425 0-.848.262-1.222.721l.001-2.79h-1.15v8.559h1.15l.002-.643c.386.478.808.725 1.219.725.46 0 .797-.246.951-.721.077-.271.128-.687.128-1.277v-2.555zm1.98 2.616v-1.147h2.301v-1.306c0-.682-.134-1.181-.376-1.504-.324-.437-.784-.668-1.365-.668-.59 0-1.051.231-1.385.668-.246.323-.389.85-.389 1.532v2.235c0 .678.158 1.153.403 1.472.334.436.795.654 1.4.654.604 0 1.079-.228 1.399-.692.141-.205.231-.436.27-.693.01-.116.041-.38.041-.752v-.181h-1.214c0 .464.002.74-.009.803-.066.309-.232.464-.517.464-.397 0-.564-.297-.56-.886z"
+    class="iconic-social-youtube-tube iconic-property-fill"></path>
+  </g>
+</svg>
+                    </a>
+
+                    <a href="https://www.facebook.com/pyconca" class="footer__link footer__link--icon footer__link--icon-facebook">
+                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" data-icon="social-facebook" width="32" height="32" class="iconic iconic-social iconic-size-md iconic-social-facebook" viewBox="0 0 32 32">
+  <g data-width="32" data-height="31" class="iconic-container iconic-social-facebook" transform="scale(1 1 ) translate(0 ) ">
+    <path d="M30.234 0h-28.468c-.976 0-1.766.791-1.766 1.766v28.468c0 .975.79 1.766 1.766 1.766h15.326v-12.392h-4.17v-4.829h4.17v-3.562c0-4.133 2.524-6.384 6.212-6.384 1.766 0 3.284.132 3.727.19v4.319l-2.557.001c-2.005 0-2.393.953-2.393 2.351v3.083h4.782l-.623 4.829h-4.16v12.392h8.155c.975 0 1.766-.791 1.766-1.766v-28.468c0-.976-.791-1.766-1.766-1.766z"
+    class="iconic-property-fill"></path>
+  </g>
+</svg>
+                    </a>
+                </li>
+
+                <li class="footer__item">
+                    <a href="/en/code-of-conduct/" class="footer__link ">Code of Conduct</a>
+                </li>
+
+                <li class="footer__item"><a class="footer__link " href="/en/volunteer/">Volunteer</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+        
+        <script src="/static/app.js?61f7da49"></script>
+        
+    </body>
+</html>

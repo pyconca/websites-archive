@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:A concrete approach to abstractions. with Terry Yanchynskyy
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:504-terry-yanchynskyy
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/504-terry-yanchynskyy/
+END:VEVENT
+END:VCALENDAR

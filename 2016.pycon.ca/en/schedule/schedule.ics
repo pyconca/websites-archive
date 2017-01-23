@@ -1,0 +1,639 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Registration & Breakfast
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T080000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T090000
+DTSTAMP;VALUE=DATE-TIME:20161112T130000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Morning Keynote with Tracy Osborn
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T090000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T101500
+DTSTAMP;VALUE=DATE-TIME:20161112T140000Z
+UID:001-tracy-osborn
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/001-tracy-osborn/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GitHub's Deployments API: let GitHub be your deployment glue with 
+ Jay Parlar
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T103000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T110000
+DTSTAMP;VALUE=DATE-TIME:20161112T153000Z
+UID:077-jay-parlar
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/077-jay-parlar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:See Python\, See Python Go\, Go Python Go with Andrey Petrov
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T103000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T110000
+DTSTAMP;VALUE=DATE-TIME:20161112T153000Z
+UID:018-andrey-petrov
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/018-andrey-petrov/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Async tasks with Django Channels with Albert O'Connor
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T103000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T110000
+DTSTAMP;VALUE=DATE-TIME:20161112T153000Z
+UID:016-albert-oconnor
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/016-albert-oconnor/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Fabric"ating RESTful APIs for Linux with Sachin Agarwal
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T114000
+DTSTAMP;VALUE=DATE-TIME:20161112T161000Z
+UID:061-sachin-agarwal
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/061-sachin-agarwal/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High performance networking in Python with Yury Selivanov
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T114000
+DTSTAMP;VALUE=DATE-TIME:20161112T161000Z
+UID:066-yury-selivanov
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/066-yury-selivanov/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An end to boring data with visualizations with Heather Shapiro
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T114000
+DTSTAMP;VALUE=DATE-TIME:20161112T161000Z
+UID:060-heather-shapiro
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/060-heather-shapiro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Find the main story in your data with pandas with Roberto Rocha
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T103000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T114000
+DTSTAMP;VALUE=DATE-TIME:20161112T153000Z
+UID:019-roberto-rocha
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/019-roberto-rocha/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypothesis: tests that write themselves with David Kua
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTSTAMP;VALUE=DATE-TIME:20161112T165000Z
+UID:107-david-kua
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/107-david-kua/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building the Real-time Web with Python and aiohttp with Steven Seg
+ uin
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTSTAMP;VALUE=DATE-TIME:20161112T165000Z
+UID:064-steven-seguin
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/064-steven-seguin/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rub-a-dub rubber duck: don't be afraid to debug! with Anna Ossowsk
+ i
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTSTAMP;VALUE=DATE-TIME:20161112T165000Z
+UID:010-anna-ossowski
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/010-anna-ossowski/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T122000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T133500
+DTSTAMP;VALUE=DATE-TIME:20161112T172000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What kind of sorcery is OpenStack? with Daniel Snider
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T133500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T134500
+DTSTAMP;VALUE=DATE-TIME:20161112T183500Z
+UID:117-daniel-snider
+LOCATION:Room 2-166
+URL:https://2016.pycon.ca/en/schedule/117-daniel-snider/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:State of the PyVideo with Paul Logston
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T133500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T134500
+DTSTAMP;VALUE=DATE-TIME:20161112T183500Z
+UID:105-paul-logston
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/105-paul-logston/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Managing large ensembles and batch execution with Python with Andr
+ e R. Erler
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T133500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T134500
+DTSTAMP;VALUE=DATE-TIME:20161112T183500Z
+UID:088-andre-r-erler
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/088-andre-r-erler/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacking Cars with Python with Eric Evenchick
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T135000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140000
+DTSTAMP;VALUE=DATE-TIME:20161112T185000Z
+UID:500-eric-evenchick
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/500-eric-evenchick/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What is NumFOCUS? with James Powell
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T135000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140000
+DTSTAMP;VALUE=DATE-TIME:20161112T185000Z
+UID:098-james-powell
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/098-james-powell/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automate your data analysis testing with Stephen Childs
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T135000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140000
+DTSTAMP;VALUE=DATE-TIME:20161112T185000Z
+UID:076-stephen-childs
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/076-stephen-childs/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A concrete approach to abstractions. with Terry Yanchynskyy
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:504-terry-yanchynskyy
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/504-terry-yanchynskyy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G.Tool: a Python-based DSL for managing information security gover
+ nance information with Ben Sapiro
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:042-ben-sapiro
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/042-ben-sapiro/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Circuit simulator for power electronics: Python power electronics 
+ with Shivkumar V. Iyer
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:024-shivkumar-v-iyer
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/024-shivkumar-v-iyer/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Databases 201: the power of the relational algebra and limits of t
+ he ORM with Wesley George
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T145000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:083-wesley-george
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/083-wesley-george/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to make ** less expensive and more expressive with en zyme
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T145000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:101-en-zyme
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/101-en-zyme/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The art of writing wargames in Python with Kivy with Dorian Pula
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T145000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:073-dorian-pula
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/073-dorian-pula/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:They're names\, not variables! with Stuart Williams
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:093-stuart-williams
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/093-stuart-williams/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to write maintainable code without tests with Juti Noppornpita
+ k
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T150000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T200000Z
+UID:055-juti-noppornpitak
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/055-juti-noppornpitak/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Version control worst practices with Greg Ward
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T150000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T200000Z
+UID:063-greg-ward
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/063-greg-ward/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building and managing diverse engineering teams with Elissa Shevin
+ sky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T150000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T200000Z
+UID:095-elissa-shevinsky
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/095-elissa-shevinsky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTSTAMP;VALUE=DATE-TIME:20161112T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creating a contemporary lending risk management system using Pytho
+ n with Piero Ferrante
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T163000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:072-piero-ferrante
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/072-piero-ferrante/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What's new in Python 3.6 with Brett Cannon
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T163000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:059-brett-cannon
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/059-brett-cannon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When the abyss gazes back: staring down Python's surprising intern
+ als with David Wolever
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T163000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:026-david-wolever
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/026-david-wolever/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introducing security earlier into the SDLC - how to hack your own 
+ apps with Tanya Janca
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T170000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:053-tanya-janca
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/053-tanya-janca/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make some noise with Python and generate terrain with Michael McHu
+ gh
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T164000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T171000
+DTSTAMP;VALUE=DATE-TIME:20161112T214000Z
+UID:091-michael-mchugh
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/091-michael-mchugh/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Extending Python with Rust with Samuel Cormier-Iijima
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T164000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T171000
+DTSTAMP;VALUE=DATE-TIME:20161112T214000Z
+UID:065-samuel-cormier-iijima
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/065-samuel-cormier-iijima/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From idea to production in 20 minutes: engineering at scale with J
+ ean-Philippe Caissy
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T164000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T171000
+DTSTAMP;VALUE=DATE-TIME:20161112T214000Z
+UID:089-jean-philippe-caissy
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/089-jean-philippe-caissy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Afternoon keynote with Raymond Hettinger
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T173000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T183000
+DTSTAMP;VALUE=DATE-TIME:20161112T223000Z
+UID:002-raymond-hettinger
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/002-raymond-hettinger/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breakfast
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T090000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T100000
+DTSTAMP;VALUE=DATE-TIME:20161113T140000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Morning keynote with Safia Abdalla
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T100000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T110000
+DTSTAMP;VALUE=DATE-TIME:20161113T150000Z
+UID:003-safia-abdalla
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/003-safia-abdalla/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quantifying the visual structure of written language with Nick And
+ eregg
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T114000
+DTSTAMP;VALUE=DATE-TIME:20161113T161000Z
+UID:046-nick-anderegg
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/046-nick-anderegg/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Architecture of CPython\, the bricks! with Stéphane Wirtel
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T114000
+DTSTAMP;VALUE=DATE-TIME:20161113T161000Z
+UID:109-stephane-wirtel
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/109-stephane-wirtel/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Word! Automating a Hip-hop word of the day blog with Christopher I
+ ng
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T111000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T114000
+DTSTAMP;VALUE=DATE-TIME:20161113T161000Z
+UID:067-christopher-ing
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/067-christopher-ing/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embrace the mistake with Mike C. Fletcher
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T122000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:056-mike-c-fletcher
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/056-mike-c-fletcher/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Not on the shelves: what nonexistent books\, tools\, and courses c
+ an tell us about ourselves with Greg Wilson
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T122000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:054-greg-wilson
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/054-greg-wilson/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep learning techniques for predictive analytics using Python: Th
+ eano vs TensorFlow with Allaa Hilal
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T122000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:113-allaa-hilal
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/113-allaa-hilal/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From gigabytes to petabytes and beyond with PySpark with Mike Sukm
+ anowsky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:096-mike-sukmanowsky
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/096-mike-sukmanowsky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monty Python for pythonistas with sa friend
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T123000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T173000Z
+UID:058-sa-friend
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/058-sa-friend/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Where we came from\, what's special about now\, and where we might
+  go with Stephen J Turnbull
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T123000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T173000Z
+UID:116-stephen-j-turnbull
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/116-stephen-j-turnbull/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pragmatic microservices for the rest of us with Ryan Easterbrook
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T123000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T173000Z
+UID:094-ryan-easterbrook
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/094-ryan-easterbrook/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunch
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTSTAMP;VALUE=DATE-TIME:20161113T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning Talks
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T144000
+DTSTAMP;VALUE=DATE-TIME:20161113T185500Z
+UID:503-lightning-talks
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/503-lightning-talks/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mutants and immutants: the missing types with Sye van der Veen
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T140500
+DTSTAMP;VALUE=DATE-TIME:20161113T185500Z
+UID:115-sye-van-der-veen
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/115-sye-van-der-veen/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Simple made easy with Steve Jackson
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T140500
+DTSTAMP;VALUE=DATE-TIME:20161113T185500Z
+UID:085-steve-jackson
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/085-steve-jackson/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building a web application for OCR (Optical Character Recognition)
+  with CapitalOne
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T135500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151000
+DTSTAMP;VALUE=DATE-TIME:20161113T185500Z
+UID:501-capital-one
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/501-capital-one/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jupyter Notebooks in the cloud with Brett Cannon
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T141000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T142000
+DTSTAMP;VALUE=DATE-TIME:20161113T191000Z
+UID:086-brett-cannon
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/086-brett-cannon/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hockey Night at PyCon with Joshua Weissbock
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T141000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T142000
+DTSTAMP;VALUE=DATE-TIME:20161113T191000Z
+UID:052-joshua-weissbock
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/052-joshua-weissbock/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python -> Iron Python -> SQL Server with Matt McGraw
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T142500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T143500
+DTSTAMP;VALUE=DATE-TIME:20161113T192500Z
+UID:106-matt-mcgraw
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/106-matt-mcgraw/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building a HackASac with Paul Mullins
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T142500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T143500
+DTSTAMP;VALUE=DATE-TIME:20161113T192500Z
+UID:505-paul-mullins
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/505-paul-mullins/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Living in a land down dunder with Paul Logston
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T144000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151500
+DTSTAMP;VALUE=DATE-TIME:20161113T194000Z
+UID:104-paul-logston
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/104-paul-logston/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Overcoming life's hurdles with Sarah Wells
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T144000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151500
+DTSTAMP;VALUE=DATE-TIME:20161113T194000Z
+UID:502-sarah-wells
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/502-sarah-wells/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacker's guide to Neural Networks with Anoop Thomas Mathew
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T144000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151500
+DTSTAMP;VALUE=DATE-TIME:20161113T194000Z
+UID:074-anoop-thomas-mathew
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/074-anoop-thomas-mathew/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T151500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T154000
+DTSTAMP;VALUE=DATE-TIME:20161113T201500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Python to power Selenium at scale with Brandon Rhodes
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T154000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T161000
+DTSTAMP;VALUE=DATE-TIME:20161113T204000Z
+UID:100-brandon-rhodes
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/100-brandon-rhodes/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Python and the Blockchain with Anthony Barker
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T154000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T161000
+DTSTAMP;VALUE=DATE-TIME:20161113T204000Z
+UID:068-anthony-barker
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/068-anthony-barker/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building a real-time image classification web app with Python and 
+ MLDB.ai with François Maillet
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T154000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T204000Z
+UID:071-francois-maillet
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/071-francois-maillet/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPython internals: why bother? with James Powell
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T162000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T212000Z
+UID:099-james-powell
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/099-james-powell/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Painful serverless with Hadrien David
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T162000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T212000Z
+UID:079-hadrien-david
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/079-hadrien-david/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Securing Your company's data: encryption\, deletion and other best
+  practices with Elissa Shevinsky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T162000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T212000Z
+UID:069-elissa-shevinsky
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/069-elissa-shevinsky/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Afternoon Keynote with Gary Bernhardt
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T170000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T180000
+DTSTAMP;VALUE=DATE-TIME:20161113T220000Z
+UID:004-gary-bernhardt
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/004-gary-bernhardt/
+END:VEVENT
+END:VCALENDAR

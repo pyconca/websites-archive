@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:From idea to production in 20 minutes: engineering at scale with J
+ ean-Philippe Caissy
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T164000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T171000
+DTSTAMP;VALUE=DATE-TIME:20161112T214000Z
+UID:089-jean-philippe-caissy
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/089-jean-philippe-caissy/
+END:VEVENT
+END:VCALENDAR

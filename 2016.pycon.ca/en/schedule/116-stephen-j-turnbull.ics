@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Where we came from\, what's special about now\, and where we might
+  go with Stephen J Turnbull
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T123000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T173000Z
+UID:116-stephen-j-turnbull
+LOCATION:Room TRS 1-067
+URL:https://2016.pycon.ca/en/schedule/116-stephen-j-turnbull/
+END:VEVENT
+END:VCALENDAR

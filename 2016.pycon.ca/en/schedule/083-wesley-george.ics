@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Databases 201: the power of the relational algebra and limits of t
+ he ORM with Wesley George
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T142000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T145000
+DTSTAMP;VALUE=DATE-TIME:20161112T192000Z
+UID:083-wesley-george
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/083-wesley-george/
+END:VEVENT
+END:VCALENDAR

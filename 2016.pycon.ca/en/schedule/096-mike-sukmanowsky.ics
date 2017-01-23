@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:From gigabytes to petabytes and beyond with PySpark with Mike Sukm
+ anowsky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T130000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:096-mike-sukmanowsky
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/096-mike-sukmanowsky/
+END:VEVENT
+END:VCALENDAR

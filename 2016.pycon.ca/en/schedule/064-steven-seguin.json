@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>What's the real-time web? Can I build it myself? In Python? Of course you can! This talk will help Python web developers learn how to integrate real-time components with their existing web applications using <code>asyncio</code> and <code>aiohttp</code>.</p>\n<h2>Steven Seguin Bio</h2>\n<p>Full-stack developer at SurveyMonkey in Ottawa working on real-time and collaboration features. Holds strong opinions about distributed systems, functional programming, and API design.</p>", 
+  "end_time": "12:20:00", 
+  "github": "sseg", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "steven-seguin.jpg", 
+  "pk": "64", 
+  "rooms": "TRS 1-067", 
+  "speakers": "Steven Seguin", 
+  "start_time": "11:50:00", 
+  "title": "Building the Real-time Web with Python and aiohttp", 
+  "youtube": "ZGU_fIOMpgk"
+}

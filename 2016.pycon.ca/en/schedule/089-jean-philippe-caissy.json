@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Shopify strives to be an ever moving company. With a strong force of hundreds in the R&amp;D team, the challenges to keep delivering and shipping scaled accordingly.</p>\n<p>From a manual CLI that only ops could execute just a few years back, to today\u2019s automatic 180+ deploys a day, this talk will highlight the different tools, processes and integrations used throughout the team that fuels today's scale. </p>\n<h2>Jean-Philippe Caissy Bio</h2>\n<p>Jean-Philippe is a senior software developer at Shopify, working in their Montreal's office. For the past 4 years, he helped organized the local Montr\u00e9al-Python user group. A seasoned Python and Ruby developer, he likes to talk about scaling problems.</p>", 
+  "end_time": "17:10:00", 
+  "github": "jpcaissy", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "jean-philippe-caissy.jpg", 
+  "pk": "89", 
+  "rooms": "TRS 3-176", 
+  "speakers": "Jean-Philippe Caissy", 
+  "start_time": "16:40:00", 
+  "title": "From idea to production in 20 minutes: engineering at scale", 
+  "twitter": "jpcaissy", 
+  "youtube": "JM-ce-cS0_E"
+}

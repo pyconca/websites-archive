@@ -1,0 +1,16 @@
+{
+  "audience_level": "Intermediate", 
+  "date": "2016-11-12", 
+  "description": "<p>Lets clear the air about witchcraft and best practices in data center IT. Come listen to my rants and raves about OpenStack, the software that controls large armies of compute, storage, and networking resources. Why does OpenStack get so much hype and so much hate?</p>\n<h2>Daniel Snider Bio</h2>\n<p>Daniel Snider is a former OpenStack software engineer, UOIT undergraduate in Information Technology, IBM, and Google Summer of Code student. He is currently a bio-tech newbie at SickKids and roboticist at Ryerson University's R3 Robotics club.</p>", 
+  "end_time": "13:45:00", 
+  "github": "danielsnider", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "daniel-snider.jpg", 
+  "pk": "116", 
+  "rooms": "2-166", 
+  "speakers": "Daniel Snider", 
+  "start_time": "13:35:00", 
+  "title": "What kind of sorcery is OpenStack?", 
+  "youtube": "_LEff9I1Fnc"
+}

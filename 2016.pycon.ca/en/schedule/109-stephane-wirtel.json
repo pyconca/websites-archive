@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>Contribution to CPython is really funny, you can learn how the language is designed, but you want to know where you should start when you have a patch to provide. In this talk, I will explain the several components of CPython and the architecture, how is the code designed.</p>\n<h2>St\u00e9phane Wirtel Bio</h2>\n<p>St\u00e9phane is Belgian software hacker, engaged and dad. Organiser of PythonFOSDEM, @ThePSF Fellow, EuroPython Society Member and Member of Association Francophone de Python and former OpenERP Core Dev (6y). He has received a Community Service Award from the Python Software Foundation.</p>\n<p>If you think distributed, asynchronous and others interesting subjects, he will be happy to discuss with you.</p>", 
+  "end_time": "11:40:00", 
+  "github": "matrixise", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "109", 
+  "rooms": "TRS 1-067", 
+  "speakers": "St\u00e9phane Wirtel", 
+  "start_time": "11:10:00", 
+  "title": "Architecture of CPython, the bricks!", 
+  "twitter": "matrixise", 
+  "youtube": "ZkAc6hzGun4"
+}

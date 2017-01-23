@@ -1,0 +1,14 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Abstractions make things appear simple. This is one of the main concepts behind OOP. So what is it?! This talk provides some guidelines on how to achieve scalable abstractions and demystify some of the confusion around it. One could say, I'll try to abstract the abstraction itself :) </p>\n<h2>Terry Yanchynskyy Bio</h2>\n<p>Terry (Taras) is a software engineer on the Payments team at <a href=\"https://www.waveapps.com/\">Wave</a>. He is a co-organizer of Pycon Canada 2016 and 2015. Before Wave, he was on the brandstem\u2122 team at St Joseph Communications. He also bears a few personal projects behind his belt. His path to software engineering comes from a distant medical degree, but he was always more fascinated by the \"physiology\" of the computation. He also enjoys casual rides on his motorcycle, travelling, and rock climbing. </p>", 
+  "end_time": "14:15:00", 
+  "github": "onebit0fme", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "504", 
+  "rooms": "TRS 2-166", 
+  "speakers": "Terry Yanchynskyy", 
+  "start_time": "14:05:00", 
+  "title": "A concrete approach to abstractions.", 
+  "youtube": "_kES4dCyrvU"
+}

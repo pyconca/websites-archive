@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Whether it's to serve a diverse customer base or to cultivate a more inclusive office environment, companies are ramping up efforts to hire (and retain) diverse technical candidates. This talk covers best practices for all steps in this process - recruiting, hiring and retaining diverse Python engineers (and their teammates) as well as keeping team dynamics harmonious. </p>\n<h2>Elissa Shevinsky Bio</h2>\n<p>Elissa Shevinsky is a serial entrepreneur, author, and privacy activist. She joined her first startup (Geekcorps) in 1999, and most recently worked on the Brave browser.  Shevinsky is currently Managing Director at Kearney Boyle &amp; Associates, where she focusing on fixing one of the most broken parts of technology - recruiting. Shevinsky is also the editor of the critically acclaimed book, \"Lean Out.\"</p>", 
+  "end_time": "15:30:00", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "elissa-schevinsky.jpg", 
+  "pk": "95", 
+  "rooms": "TRS 3-176", 
+  "speakers": "Elissa Shevinsky", 
+  "start_time": "15:00:00", 
+  "title": "Building and managing diverse engineering teams", 
+  "twitter": "ElissaBeth", 
+  "youtube": "DEat8aOk0rA"
+}

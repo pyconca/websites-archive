@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Circuit simulator for power electronics: Python power electronics 
+ with Shivkumar V. Iyer
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T140500
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T141500
+DTSTAMP;VALUE=DATE-TIME:20161112T190500Z
+UID:024-shivkumar-v-iyer
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/024-shivkumar-v-iyer/
+END:VEVENT
+END:VCALENDAR

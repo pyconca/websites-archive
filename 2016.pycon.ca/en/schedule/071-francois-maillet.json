@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>In this tutorial, we will build a real-time machine learning web app using Python and MLDB.ai. We will use MLDB's Tensorflow integration to use a deep learning model to embed images in a high dimensional conceptual space, and use that representation as features to do transfer learning. This will allow us to build a real-time image classification endpoint.</p>\n<h2>Fran\u00e7ois Maillet Bio</h2>\n<p>Fran\u00e7ois Maillet is a computer scientist specializing in machine learning. He currently leads the machine learning team at MLDB.ai, a Montreal startup building the Machine Learning Database (MLDB).</p>\n<p>He's the creator of the Epic NHL goal celebration hack with a hue light show and real-time machine learning presented at Pycon Canada 2015. Previously built an audio fingerprinter used by a TV advertisement monitoring company. He also did research at the Universit\u00e9 de Montr\u00e9al applying machine learning to solve problems related to music recommendation, play list generation and track auto-tagging.</p>", 
+  "end_time": "16:50:00", 
+  "github": "mailletf", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "francois-maillet.jpg", 
+  "pk": "71", 
+  "rooms": "Tutorial", 
+  "rowspan": "2", 
+  "speakers": "Fran\u00e7ois Maillet", 
+  "start_time": "15:40:00", 
+  "title": "Building a real-time image classification web app with Python and MLDB.ai", 
+  "twitter": "mailletf"
+}

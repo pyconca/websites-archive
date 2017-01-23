@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>This talk will cover some common uses of dunder methods and some not so common.\nIt will also lightly cover the process of editing the C Python source in order\nto add your own operator/dunder method combo to the C Python interpreter.</p>\n<h2>Paul Logston Bio</h2>\n<p>Paul Logston is a New York City based developer. He helps organize and run the\nNYC Python, Learn Python NYC, and PyGotham events that take place in NYC.\nHe works at 15Five and teaches at Columbia.</p>", 
+  "end_time": "15:15:00", 
+  "github": "logston", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "paul-logston.jpg", 
+  "pk": "104", 
+  "rooms": "TRS 2-166", 
+  "speakers": "Paul Logston", 
+  "start_time": "14:40:00", 
+  "title": "Living in a land down dunder", 
+  "twitter": "PaulLogston", 
+  "youtube": "6WY4xtA5PcA"
+}

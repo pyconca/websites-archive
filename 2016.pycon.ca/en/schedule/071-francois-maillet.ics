@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Building a real-time image classification web app with Python and 
+ MLDB.ai with François Maillet
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T154000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T204000Z
+UID:071-francois-maillet
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/071-francois-maillet/
+END:VEVENT
+END:VCALENDAR

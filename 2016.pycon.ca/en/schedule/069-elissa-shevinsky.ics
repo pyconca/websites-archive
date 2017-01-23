@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Securing Your company's data: encryption\, deletion and other best
+  practices with Elissa Shevinsky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T162000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T165000
+DTSTAMP;VALUE=DATE-TIME:20161113T212000Z
+UID:069-elissa-shevinsky
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/069-elissa-shevinsky/
+END:VEVENT
+END:VCALENDAR

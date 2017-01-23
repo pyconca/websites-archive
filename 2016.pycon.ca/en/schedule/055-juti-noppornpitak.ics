@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:How to write maintainable code without tests with Juti Noppornpita
+ k
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T150000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T200000Z
+UID:055-juti-noppornpitak
+LOCATION:Room TRS 2-166
+URL:https://2016.pycon.ca/en/schedule/055-juti-noppornpitak/
+END:VEVENT
+END:VCALENDAR

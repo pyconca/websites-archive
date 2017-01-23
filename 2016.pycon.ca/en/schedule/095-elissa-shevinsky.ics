@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Building and managing diverse engineering teams with Elissa Shevin
+ sky
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T150000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T153000
+DTSTAMP;VALUE=DATE-TIME:20161112T200000Z
+UID:095-elissa-shevinsky
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/095-elissa-shevinsky/
+END:VEVENT
+END:VCALENDAR

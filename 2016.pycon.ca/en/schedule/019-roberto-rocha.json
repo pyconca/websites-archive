@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>pandas is a powerful data analysis library that can quickly churn insights from datasets, even massive ones. Learn how to get started quickly and see statistical summaries and pivot tables. We'll also see how easy it is to group data by categories and whip up quick exploratory charts so you can see what your data looks like.</p>\n<p>To follow along, attendees will require a laptop with pandas, numpy, matplotlib and Jupyter packages pre-installed. Roberto recommends the <a href=\"https://www.continuum.io/downloads\">Anaconda data science platform</a> which provides an easy, cross-platform installation of all of these tools.</p>\n<h2>Roberto Rocha Bio</h2>\n<p>Roberto has been a professional journalist for 11 years, and a specialist in data-driven reporting for the last six. He currently practices his craft at the CBC.</p>\n<p>He was bitten by Python when he built his first web scraper and hasn't stopped. He also uses it to crunch data, make charts and maps, and automate tedious newsrooms tasks.</p>\n<p>He's a regular speaker in conferences and will be a part-time professor of data journalism at the University of Ottawa this fall.</p>", 
+  "end_time": "11:40:00", 
+  "github": "robroc", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "roberto-rocha.jpg", 
+  "pk": "19", 
+  "rooms": "Tutorial", 
+  "rowspan": "2", 
+  "speakers": "Roberto Rocha", 
+  "start_time": "10:30:00", 
+  "title": "Find the main story in your data with pandas", 
+  "twitter": "robroc"
+}

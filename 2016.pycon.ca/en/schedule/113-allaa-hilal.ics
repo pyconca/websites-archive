@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Deep learning techniques for predictive analytics using Python: Th
+ eano vs TensorFlow with Allaa Hilal
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T115000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161113T122000
+DTSTAMP;VALUE=DATE-TIME:20161113T165000Z
+UID:113-allaa-hilal
+LOCATION:Room TRS 3-176
+URL:https://2016.pycon.ca/en/schedule/113-allaa-hilal/
+END:VEVENT
+END:VCALENDAR

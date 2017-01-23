@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Names in Python probably cause more subtle confusion than any other feature. Sometimes it's because people think they work just like variables in other languages. Often it's because people don't understand how exactly they work.</p>\n<p>This tutorial, targeted at beginner and intermediate Python developers, will focus on how names and namespaces work in all the major language features that change them.</p>\n<h2>Stuart Williams Bio</h2>\n<p>Stuart Williams helps quants and developers in Toronto write better software and write software better.  He has taught Python at University, PyCon, and various companies; and to user groups, high school students, and elementary schoolchildren.</p>", 
+  "end_time": "15:30:00", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "stuart-williams.jpg", 
+  "pk": "93", 
+  "rooms": "Tutorial", 
+  "rowspan": "2", 
+  "speakers": "Stuart Williams", 
+  "start_time": "14:20:00", 
+  "title": "They're names, not variables!", 
+  "twitter": "ceilous"
+}

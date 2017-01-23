@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>Have you ever been surprised by sophisticated vocabulary used by some hip-hop artists? With standard data science tools, I search a large corpus of hip-hop lyrics in order to extract rhyming couplets that include uncommon and interesting words. Using curated output from this code, I demonstrate how to automate the creation of short text-based posts for a hip-hop themed \"Word of the Day\" blog.</p>\n<h2>Christopher Ing Bio</h2>\n<p>Chris is a PhD student at University of Toronto studying computational biochemistry. He has degrees in computational physics and physics from University of Waterloo. He has converted countless graduate students to Python in the wake of his scientific career, not to mention, he's a minor celebrity on Tumblr.</p>", 
+  "end_time": "11:40:00", 
+  "github": "cing", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "christopher-ing.jpg", 
+  "pk": "67", 
+  "rooms": "TRS 3-176", 
+  "speakers": "Christopher Ing", 
+  "start_time": "11:10:00", 
+  "title": "Word! Automating a Hip-hop word of the day blog", 
+  "twitter": "jsci", 
+  "youtube": "dEMN67J5-NA"
+}

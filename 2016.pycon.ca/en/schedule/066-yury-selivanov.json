@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-12", 
+  "description": "<ul>\n<li>Overview of async/await.</li>\n<li>asyncio and uvloop.</li>\n<li>Sockets, Protocols or Streams?</li>\n<li>Learn by example: high-performance PostgreSQL driver.</li>\n</ul>\n<h2>Yury Selivanov Bio</h2>\n<p>Yury Selivanov is an avid Python user for the last 10 years. He's a CPython core developer since January 2013. He's one of the main developers behind asyncio, and he authored and implemented PEP 492 (async/await) in 2015.</p>\n<p>Yury is an entrepreneur and technical leader with many years of experience in software architecture and design. He's a partner at MagicStack, a Toronto-based IT consultancy firm, which he co-founded in 2008.</p>", 
+  "end_time": "11:40:00", 
+  "github": "1st1", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "66", 
+  "rooms": "TRS 1-067", 
+  "speakers": "Yury Selivanov", 
+  "start_time": "11:10:00", 
+  "title": "High performance networking in Python", 
+  "twitter": "1st1", 
+  "youtube": "WSq0S7UvI8E"
+}

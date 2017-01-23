@@ -1,0 +1,16 @@
+{
+  "date": "2016-11-13", 
+  "description": "<p>A thought experiment exploring what a symmetrical type system would look like in Python.  Mutable ints, floats, and strs?  Immutable dicts?  What would they be called, how would they behave, and would they even be useful?</p>\n<h2>Sye van der Veen Bio</h2>\n<p>Senior Software Engineer at Zenreach.  I have been marvelling at the elegance and simplicity of Python code for over 15 years.</p>", 
+  "end_time": "14:05:00", 
+  "github": "syeberman", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "photo": "sye-van-der-veen.jpg", 
+  "pk": "115", 
+  "rooms": "TRS 1-067", 
+  "speakers": "Sye van der Veen", 
+  "start_time": "13:55:00", 
+  "title": "Mutants and immutants: the missing types", 
+  "twitter": "syeberman", 
+  "youtube": "m_vepmNprDc"
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2016-11-12", 
+  "description": "<p>Designing a HTTP-RESTful-API-based infrastructure provisioning system is challenging. Concurrent users, race conditions, erroneous OS responses, quota mechanisms etc. need to be wrapped up under a consistent and responsive CRUD interface. The talk is about a few design patterns and about the \"lessons learnt\" in building/operating/iterating a large scale API-driven infra-provisioning system.</p>\n<h2>Sachin Agarwal Bio</h2>\n<h3>In Brief</h3>\n<p>Python hacker with a day job in the infra/platform cloud space: devops automation, monitoring, capacity planning, data mining logs, virtualization/LXC-docker containerization, software-defined-* (networking/storage/compute).</p>\n<h3>Formal Stuff</h3>\n<h4>Current</h4>\n<p>I work as an engineering manager for a infrastructure/platform software development team at TD @ Waterloo. Shameless plug - I am hiring Python developers, especially those with infra/cloud/config management/devops experience - in  Waterloo.</p>\n<h4>Previous</h4>\n<ul>\n<li>Storage architect at blackberry - developer of a large scale software-defined-storage all-flash system: Backend for 1000+ node Cassandra cluster(s).</li>\n<li>Researcher at NEC Labs (Heidelberg, Germany) and Deutsche Telekom Labs (Berlin, Germany), PhD - Boston University.</li>\n</ul>", 
+  "end_time": "11:40:00", 
+  "github": "sachinkagarwal", 
+  "github_link": "h", 
+  "kind": "talk", 
+  "pk": "61", 
+  "rooms": "TRS 2-166", 
+  "speakers": "Sachin Agarwal", 
+  "start_time": "11:10:00", 
+  "title": "\"Fabric\"ating RESTful APIs for Linux", 
+  "twitter": "sachinkagarwal", 
+  "youtube": "3GNnVSTtl-o"
+}

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PyCon Canada 2016//2016.pycon.ca
+BEGIN:VEVENT
+SUMMARY:Introducing security earlier into the SDLC - how to hack your own 
+ apps with Tanya Janca
+DTSTART;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T160000
+DTEND;TZID=Canada/Eastern;VALUE=DATE-TIME:20161112T170000
+DTSTAMP;VALUE=DATE-TIME:20161112T210000Z
+UID:053-tanya-janca
+LOCATION:Room Tutorial
+URL:https://2016.pycon.ca/en/schedule/053-tanya-janca/
+END:VEVENT
+END:VCALENDAR

@@ -7,7 +7,8 @@ env.use_ssh_config = True
 
 # Remote Directories
 env.html_dir = '/srv/www/pycon.ca/{0}/html/'
-env.archives = ['2012', '2013', '2015']
+env.archives = ['2012', '2013', '2015', '2016']
+
 
 @task
 def deploy():
